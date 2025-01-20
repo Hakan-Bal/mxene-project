@@ -1,0 +1,70 @@
+SystemName	Mn2CTx
+SystemLabel	Mn2CTx
+DM.InitialSpinPol	0.2
+DM.MixingWeight	0.1
+DM.NumberPulay	5
+DM.Tolerance	1.0E-4
+DM.UseSaveDM	True
+ElectronicTemperature	300 K
+MD.ConstantVolume	False
+MD.MaxForceTol	0.04 eV/Ang
+MD.MaxStressTol	1.0 GPa
+MD.NumCGsteps	100
+MD.TypeOfRun	CG
+MD.VariableCell	True
+MaxSCFIterations	200
+PAO.BasisSize	DZP
+PAO.EnergyShift	0.01 Ry
+PAO.SoftDefault	True
+PAO.SplitNorm	0.15
+SCF.DM.Tolerance	1.0E-4
+SCF.EDM.Tolerance	1.0E-4 eV
+SCF.H.Tolerance	1.0E-4 eV
+SaveDeltaRho	True
+SaveElectrostaticPotential	True
+SaveRho	True
+SolutionMethod	diagon
+WriteDenchar	True
+WriteEigenvalues	True
+XC.functional	GGA
+XML.Write	True
+SCFMustConverge	True
+Spin	polarized
+XC.functional	GGA
+XC.authors	PW91
+MeshCutoff	2040.8539518275434	eV
+PAO.EnergyShift	0.01	eV
+NumberOfSpecies	3
+NumberOfAtoms	5
+%block ChemicalSpecieslabel
+    1 25 Mn.1 Mn.1.psml
+    2 6 C.2 C.2.psml
+    3 9 F.3 F.3.psml
+%endblock ChemicalSpecieslabel
+%block PAO.BasisSizes
+    Mn.1	DZP
+    C.2	DZP
+    F.3	DZP
+%endblock PAO.BasisSizes
+LatticeConstant	1.0 Ang
+%block LatticeVectors
+    3.2 0.0 0.0
+    -1.6 2.7712812921102037 0.0
+    0.0 0.0 25.0
+%endblock LatticeVectors
+AtomicCoordinatesFormat	Ang
+%block AtomicCoordinatesAndAtomicSpecies
+    -1.480297366166875e-17 1.8475208614068024 10.0 1
+    1.5999999999999999 0.9237604307034012 11.25 1
+    0.0 0.0 12.5 2
+    -1.480297366166875e-17 1.8475208614068024 13.750000000000002 3
+    1.5999999999999999 0.9237604307034012 8.75 3
+%endblock AtomicCoordinatesAndAtomicSpecies
+%block DM.InitSpin
+%endblock DM.InitSpin
+#KPoint grid
+%block kgrid_Monkhorst_Pack
+     6       0       0  0.0
+     0       6       0  0.0
+     0       0       1  0.0
+%endblock kgrid_Monkhorst_Pack

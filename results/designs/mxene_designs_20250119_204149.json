@@ -1,0 +1,17 @@
+{
+  "timestamp": "20250119_204149",
+  "designs": [
+    {
+      "composition": {
+        "elements": [
+          "C",
+          "Cr"
+        ],
+        "probabilities": [
+          0.635420560836792,
+          0.364579439163208
+        ]
+      },
+      "properties": {
+        "predicted": {
+          "E_coh": 

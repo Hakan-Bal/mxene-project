@@ -1,0 +1,123 @@
+Executable      : siesta
+Version         : 5.2.0-12-gaf738a07d
+Architecture    : x86_64
+Compiler version: GNU-13.2.0
+Compiler flags  : -fallow-argument-mismatch -O3 -march=native
+Parallelisations: MPI
+Native ELPA support
+ELSI support. Solvers:
+   ELPA (internal) 
+   NTPoly
+   OMM
+DFT-D3 support
+
+Runtime information:
+* Directory : /media/hakan/New Volume1/dftLiteratur/malzemeML/mxene_project/results/dft/calculations/Ti2NTx_F
+* Running in serial mode (only 1 MPI rank).
+>> Start of run:  20-JAN-2025   1:09:42
+
+                           *********************** 
+                           *  WELCOME TO SIESTA  * 
+                           *********************** 
+
+ NOTE: Siesta V5 introduces some new defaults for basis-set generation
+ NOTE: which might lead to slightly different numerical results.
+ NOTE: Please see the manual for full details and compatibility measures.
+
+
+reinit: Reading from standard input
+reinit: Dumping input in INPUT_TMP.55138
+************************** Dump of input data file ****************************
+SystemName	Ti2NTx_F
+SystemLabel	Ti2NTx_F
+DM.InitialSpinPol	0.2
+DM.MixingWeight	0.1
+DM.NumberPulay	5
+DM.Tolerance	0.0001
+DM.UseSaveDM	True
+ElectronicTemperature	300 K
+MaxSCFIterations	200
+PAO.BasisSize	DZP
+PAO.EnergyShift	0.02 Ry
+PAO.SplitNorm	0.15
+SaveDeltaRho	True
+SaveElectrostaticPotential	True
+SaveRho	True
+SolutionMethod	diagon
+VDW.method	DFT-D2
+VDW.radius	40.0
+VDW.scale	0.75
+WriteDenchar	True
+WriteEigenvalues	True
+XC.authors	PBE
+XC.functional	GGA
+XML.Write	True
+SCFMustConverge	True
+Spin	polarized
+XC.functional	GGA
+XC.authors	PW91
+MeshCutoff	1360.5693012183622	eV
+PAO.EnergyShift	0.27211386024367246	eV
+NumberOfSpecies	3
+NumberOfAtoms	5
+%block ChemicalSpecieslabel
+    1 22 Ti.1 Ti.1.psml
+    2 7 N.2 N.2.psml
+    3 9 F.3 F.3.psml
+%endblock ChemicalSpecieslabel
+%block PAO.BasisSizes
+    Ti.1	DZP
+    N.2	DZP
+    F.3	DZP
+%endblock PAO.BasisSizes
+LatticeConstant	1.0 Ang
+%block LatticeVectors
+    3.2 0.0 0.0
+    -1.6 2.7712812921102037 0.0
+    0.0 0.0 20.0
+%endblock LatticeVectors
+AtomicCoordinatesFormat	Ang
+%block AtomicCoordinatesAndAtomicSpecies
+    -1.480297366166875e-17 1.8475208614068024 8.0 1
+    1.5999999999999999 0.9237604307034012 9.0 1
+    0.0 0.0 10.0 2
+    1.5999999999999999 0.9237604307034012 10.2 3
+    -1.480297366166875e-17 1.8475208614068024 6.8 3
+%endblock AtomicCoordinatesAndAtomicSpecies
+%block DM.InitSpin
+%endblock DM.InitSpin
+#KPoint grid
+%block kgrid_Monkhorst_Pack
+     6       0       0  0.0
+     0       6       0  0.0
+     0       0       1  0.0
+%endblock kgrid_Monkhorst_Pack
+************************** End of input data file *****************************
+*** WARNING:  FDF module: fdf_read: block DM.InitSpin is empty...
+
+reinit: -----------------------------------------------------------------------
+reinit: System Name: Ti2NTx_F
+reinit: -----------------------------------------------------------------------
+reinit: System Label: Ti2NTx_F
+reinit: -----------------------------------------------------------------------
+
+NOTE on units for spin output: 
+{S} is the spin magnetic moment, in units of the Bohr magneton,
+assuming a g-factor for the electron spin of exactly 2.
+The spin magnetic moment is then numerically equal to the charge inbalance,
+in units of electrons, between the spin-up and -down channels.
+
+
+initatom: Reading input for the pseudopotentials and atomic orbitals ----------
+Species number:   1 Atomic number:   22 Label: Ti.1
+Species number:   2 Atomic number:    7 Label: N.2
+Species number:   3 Atomic number:    9 Label: F.3
+
+Ground state valence configuration (from tables):   4s02  4p00  3d02  4f00
+Ground state valence configuration (from tables):   2s02  2p03  3d00  4f00
+Ground state valence configuration (from tables):   2s02  2p05  3d00  4f00
+
+---- Processing specs for species: Ti.1
+pseudo_read: ERROR: Pseudopotential file not found: Ti.1.psml
+
+Stopping Program from Node:    0

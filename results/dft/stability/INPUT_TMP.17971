@@ -1,0 +1,71 @@
+SystemName	Ti2CTx
+SystemLabel	Ti2CTx
+DM.InitialSpinPol	0.2
+DM.MixingWeight	0.1
+DM.NumberPulay	5
+DM.Tolerance	1.0E-4
+DM.UseSaveDM	True
+ElectronicTemperature	300 K
+MD.ConstantVolume	False
+MD.MaxForceTol	0.04 eV/Ang
+MD.MaxStressTol	1.0 GPa
+MD.NumCGsteps	100
+MD.TypeOfRun	CG
+MD.VariableCell	True
+MaxSCFIterations	200
+PAO.BasisSize	DZP
+PAO.EnergyShift	0.01 Ry
+PAO.SoftDefault	True
+PAO.SplitNorm	0.15
+SCF.DM.Tolerance	1.0E-4
+SCF.EDM.Tolerance	1.0E-4 eV
+SCF.H.Tolerance	1.0E-4 eV
+SaveDeltaRho	True
+SaveElectrostaticPotential	True
+SaveRho	True
+SolutionMethod	diagon
+WriteDenchar	True
+WriteEigenvalues	True
+XC.functional	GGA
+XML.Write	True
+SCFMustConverge	True
+Spin	polarized
+XC.functional	GGA
+XC.authors	PW91
+MeshCutoff	2040.8539518275434	eV
+PAO.EnergyShift	0.01	eV
+NumberOfSpecies	3
+NumberOfAtoms	5
+%block ChemicalSpecieslabel
+    1 22 Ti.1 Ti.1.psml
+    2 6 C.2 C.2.psml
+    3 8 O.3 O.3.psml
+%endblock ChemicalSpecieslabel
+%block PAO.BasisSizes
+    Ti.1	DZP
+    C.2	DZP
+    O.3	DZP
+%endblock PAO.BasisSizes
+LatticeConstant	1.0 Ang
+%block LatticeVectors
+    3.2 0.0 0.0
+    -1.6 2.7712812921102037 0.0
+    0.0 0.0 25.0
+%endblock LatticeVectors
+AtomicCoordinatesFormat	Ang
+%block AtomicCoordinatesAndAtomicSpecies
+    -0.0030046068930283986 1.8492579705609289 9.999140403511877 1
+    1.5965301788573374 0.9257524258813707 11.25067912813907 1
+    0.008078882557973201 -0.004666006935828404 12.500970680320442 2
+    -0.0025842060322455378 1.8490296487653906 13.7452104573025 3
+    1.6030255151380666 0.9220126837274141 8.753765224714948 3
+%endblock AtomicCoordinatesAndAtomicSpecies
+%block DM.InitSpin
+%endblock DM.InitSpin
+DM.UseSaveDM	True
+#KPoint grid
+%block kgrid_Monkhorst_Pack
+     6       0       0  0.0
+     0       6       0  0.0
+     0       0       1  0.0
+%endblock kgrid_Monkhorst_Pack

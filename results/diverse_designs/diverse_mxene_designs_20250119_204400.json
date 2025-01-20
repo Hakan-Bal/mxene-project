@@ -1,0 +1,11 @@
+{
+  "timestamp": "20250119_204400",
+  "designs": [
+    {
+      "composition": {
+        "metal": "Mn",
+        "x_element": "C",
+        "ratio": "2:1"
+      },
+      "properties": {
+        "E_coh": 

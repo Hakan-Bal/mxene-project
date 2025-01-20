@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+data/processed/*.npy
+data/processed/*.pkl
+results/dft/stability/*.traj
+results/dft/stability/*.log
+results/dft/stability/visualizations/*.png
+results/dft/stability/visualizations/*.mp4
+
+# Keep
+!data/processed/.gitkeep
+!results/dft/stability/.gitkeep
+!results/dft/stability/visualizations/.gitkeep

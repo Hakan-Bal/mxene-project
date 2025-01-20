@@ -1,0 +1,925 @@
+{
+  "timestamp": "20250119_205432",
+  "results": [
+    {
+      "design_number": 1,
+      "formula": "Ti\u2082NT\u2093",
+      "composition": {
+        "metal": "Ti",
+        "x_element": "N",
+        "ratio": "2:1"
+      },
+      "properties": {
+        "E_coh": -449.7236328125,
+        "WF": 4.837737560272217,
+        "W_sur": 246.63441467285156,
+        "E_coh_norm": -116.52043151855469,
+        "density_sur": 2.1493217945098877,
+        "l_M-X": 1.5553447008132935,
+        "l_M2-X": 1.7549145221710205
+      },
+      "literature_analysis": {
+        "google_scholar": [],
+        "arxiv": [
+          {
+            "title": "A Density Functional Theory Study of Magnetic Transition in MnO2 adsorbed Vanadium Carbide (V$_2$C) MXene",
+            "authors": [
+              "Mahjabeen Fatima",
+              "Saleem Ayaz Khan",
+              "Syed Rizwan"
+            ],
+            "year": 2024,
+            "summary": "The work reports nonmagnetic behavior (0.04 $\\mu$B) in two-dimensional (2D)\nV2C-OF MXene and ferromagnetism in MnO$_2$ adsorbed V2C-OF MXene. The density\nfunctional theory (DFT) calculations were carried out to study the magnetic\nmoments of V$_2$C-OF and MnO$_2$@V$_2$C-OF MXene. The MXene, which is derived\nfrom the exfoliation of its parent V$_2$AlC MAX phase, shows a good potential\nto be a ferromagnetic when MnO$_2$ is adsorbed on it. The V$_2$C MXene and\nMnO$_2$ adsorbed V$_2$C MXene were successfully synthesized, as characterized\nusing X-ray diffraction, showing an increased c-lattice parameter from\n22.6{\\AA} to 27.2{\\AA} after MnO$_2$ adsorption. The DFT study confirmed that\nMnO$_2$ adsorbed V$_2$C MXene changed from nonmagnetic (in V$_2$C MXene) to a\nstrong ferromagnetic with a magnetic moment of 4.48$\\mu$B for Mn adsorbed\nV$_2$C-OF MXene. The current work is a step-forward towards understanding of\nmagnetism in two-dimensional materials for future 2D spintronics.",
+            "url": "http://arxiv.org/abs/2411.09536v1"
+          },
+          {
+            "title": "Superior Structural, Elastic and Electronic Properties of 2D Titanium Nitride MXenes Over Carbide MXenes: A Comprehensive First Principles Study",
+            "authors": [
+              "Ning Zhang",
+              "Yu Hong",
+              "Sanaz Yazdanparast",
+              "Mohsen Asle Zaeem"
+            ],
+            "year": 2018,
+            "summary": "The structural, elastic and electronic properties of two-dimensional (2D)\ntitanium carbide/nitride based pristine (Tin+1Cn/Tin+1Nn) and functionalized\nMXenes (Tin+1CnT2/Tin+1NnT2, T stands for the terminal groups: -F, -O and -OH,\nn = 1, 2, 3) are investigated by density functional theory calculations.\nCarbide-based MXenes possess larger lattice constants and monolayer thicknesses\nthan nitride-based MXenes. The in-plane Young's moduli of Tin+1Nn are larger\nthan those of Tin+1Cn, whereas in both systems they decrease with the increase\nof the monolayer thickness. Cohesive energy calculations indicate that MXenes\nwith a larger monolayer thickness have a better structural stability.\nAdsorption energy calculations imply that Tin+1Nn have stronger preference to\nadhere to the terminal groups, which suggests more active surfaces for\nnitride-based MXenes. More importantly, nearly free electron states are\nobserved to exist outside the surfaces of -OH functionalized carbide/nitride\nbased MXenes, especially in Tin+1Nn(OH)2, which provide almost perfect\ntransmission channels without nuclear scattering for electron transport. The\noverall electrical conductivity of nitride-based MXenes is determined to be\nhigher than that of carbide-based MXenes. The exceptional properties of\ntitanium nitride-based MXenes, including strong surface adsorption, high\nelastic constant and Young's modulus, and good metallic conductivity, make them\npromising materials for catalysis and energy storage applications.",
+            "url": "http://arxiv.org/abs/1802.06648v2"
+          },
+          {
+            "title": "Predicting the pseudocapacitive windows for MXene electrodes with voltage-dependent cluster expansion models",
+            "authors": [
+              "James M. Goff",
+              "Francisco Marques dos Santos Vieira",
+              "Nathan D. Keilbart",
+              "Yasuaki Okada",
+              "Ismaila Dabo"
+            ],
+            "year": 2021,
+            "summary": "MXene transition-metal carbides and nitrides are of growing interest for\nenergy storage applications. These compounds are especially promising for use\nas pseudocapacitive electrodes due to their ability to convert energy\nelectrochemically at fast rates. Using voltage-dependent cluster expansion\nmodels, we predict the charge storage performance of MXene pseudocapacitors for\na range of electrode compositions. $M_3C_2O_2$ electrodes based on group-VI\ntransition metals have up to 80% larger areal energy densities than\nprototypical titanium-based ( e.g. $Ti_3C_2O_2$) MXene electrodes. We attribute\nthis high pseudocapacitance to the Faradaic voltage windows of group-VI MXene\nelectrodes, which are predicted to be 1.2 to 1.8 times larger than those of\ntitanium-based MXenes. The size of the pseudocapacitive voltage window\nincreases with the range of oxidation states that is accessible to the MXene\ntransition metals. By similar mechanisms, the presence of multiple ions in the\nsolvent (Li$^+$ and H$^+$) leads to sharp changes in the transition-metal\noxidation states and can significantly increase the charge capacity of MXene\npseudocapacitors.",
+            "url": "http://arxiv.org/abs/2102.11863v1"
+          },
+          {
+            "title": "V2C MXene-modified g-C3N4 for enhanced visible-light photocatalytic activity",
+            "authors": [
+              "Ruizheng Xu",
+              "Guiyu Wei",
+              "Zhemin Xie",
+              "Sijie Diao",
+              "Jianfeng Wen",
+              "Tao Tang",
+              "Li Jiang",
+              "Ming Li",
+              "Guanghui Hu"
+            ],
+            "year": 2023,
+            "summary": "Increasing the efficiency of charge transfer and separation efficiency of\nphotogenerated carriers are still the main challenges in the field of\nsemiconductor-based photocatalysts. Herein, we synthesized g-C3N4@V2C MXene\nphotocatalyst by modifying g-C3N4 using V2C MXene. The prepared photocatalyst\nexhibited outstanding photocatalytic performance under visible light. The\ndegradation efficiency of methyl orange by g-C3N4@V2C MXene photocatalyst was\nas high as 94.5%, which is 1.56 times higher than that by g-C3N4. This was\nattributed to the V2C MXene inhibiting the rapid recombination of\nphotogenerated carriers and facilitating rapid transfer of photogenerated\nelectrons (e) from g-C3N4 to MXene. Moreover, g-C3N4@V2C MXene photocatalyst\nshowed good cycling stability. The photocatalytic performance was higher than\n85% after three cycles. Experiments to capture free radicals revealed that\nsuperoxide radicals (02) are the main contributors to the photocatalytic\nactivity. Thus, the proposed g-C3N4@V2C MXene photocatalyst is a promising\nvisible-light catalyst.",
+            "url": "http://arxiv.org/abs/2310.16414v1"
+          },
+          {
+            "title": "Control of spintronic and electronic properties of bimetallic and vacancy-ordered vanadium carbide MXenes via surface functionalization",
+            "authors": [
+              "Shuo Li",
+              "Junjie He",
+              "Petr Nachtigall",
+              "Luk\u00e1\u0161 Grajciar",
+              "Federico Brivio"
+            ],
+            "year": 2019,
+            "summary": "MXenes are 2D transition metal carbides with high potential for overcoming\nlimitations of conventional two-dimensional electronics. In this context,\nvarious MXenes have shown magnetic properties suitable for applications in\nspintronics, yet the number of MXenes reported so far is far smaller than their\nparental MAX phases. Therefore, we have studied the structural, electronic and\nmagnetic properties of bimetallic and vacancy-ordered MXenes derived from a new\n$(V_{2/3}Zr_{1/3})_2AlC $ MAX phase to assess whether MXene exfoliation would\nreturn stable magnetic materials. In particular, we have investigated the\nproperties of pristine and surface-functionalized $(V_{2/3}Zr_{1/3})_2CX_2$\nbimetallic and $(V_{2/3} \\square_{1/3})_2CX2$ vacancy-ordered MXenes with X =\nO, F and OH. Our density functional theory (DFT) calculations showed that\nmodifying the MXene stoichiometry and/or MXene surface functionalization\nchanges MXene properties. After testing all possible combinations of metallic\nmotifs and functionalization, we identified $V_{2/3}Zr_{1/3})_2CX_2$,\n$(V_{2/3}\\square_{1/3})_2CF_2$ and $(V_{2/3}\\square_{1/3})_2C(OH)_2$ as stable\nstructures. Among them, $(V_{2/3}Zr_{1/3})_2CO_2$ MXene is predicted to be an\nFM intrinsic half-semiconductor with a remarkably high Curie temperature\n($T_C$)) of 270 K. The $(V_{2/3}Zr_{1/3})_2C(OH)_2$ MXene exhibits a rather low\nwork function (WF) (1.37 eV) and is thus a promising candidate for ultra-low\nwork function electron emitters. Conversely, the $(V_{2/3}\\square_{1/3})_2CF_2$\nMXene has a rather high WF and hence can be used as a hole injector for\nSchottky-barrier-free contact applications. Overall, our proof-of-concept study\nshows that theoretical predictions of MXene exfoliation and properties support\nfurther experimental research towards developing spintronics devices.",
+            "url": "http://arxiv.org/abs/1910.01509v1"
+          }
+        ],
+        "total_papers": 5,
+        "total_citations": 0,
+        "novelty_score": 0.16666666666666666
+      }
+    },
+    {
+      "design_number": 2,
+      "formula": "Ti\u2082CT\u2093",
+      "composition": {
+        "metal": "Ti",
+        "x_element": "C",
+        "ratio": "2:1"
+      },
+      "properties": {
+        "E_coh": -426.8376159667969,
+        "WF": 5.38535737991333,
+        "W_sur": 251.5170440673828,
+        "E_coh_norm": -115.35316467285156,
+        "density_sur": 2.12016224861145,
+        "l_M-X": 1.601258397102356,
+        "l_M2-X": 1.7964357137680054
+      },
+      "literature_analysis": {
+        "google_scholar": [],
+        "arxiv": [
+          {
+            "title": "A Density Functional Theory Study of Magnetic Transition in MnO2 adsorbed Vanadium Carbide (V$_2$C) MXene",
+            "authors": [
+              "Mahjabeen Fatima",
+              "Saleem Ayaz Khan",
+              "Syed Rizwan"
+            ],
+            "year": 2024,
+            "summary": "The work reports nonmagnetic behavior (0.04 $\\mu$B) in two-dimensional (2D)\nV2C-OF MXene and ferromagnetism in MnO$_2$ adsorbed V2C-OF MXene. The density\nfunctional theory (DFT) calculations were carried out to study the magnetic\nmoments of V$_2$C-OF and MnO$_2$@V$_2$C-OF MXene. The MXene, which is derived\nfrom the exfoliation of its parent V$_2$AlC MAX phase, shows a good potential\nto be a ferromagnetic when MnO$_2$ is adsorbed on it. The V$_2$C MXene and\nMnO$_2$ adsorbed V$_2$C MXene were successfully synthesized, as characterized\nusing X-ray diffraction, showing an increased c-lattice parameter from\n22.6{\\AA} to 27.2{\\AA} after MnO$_2$ adsorption. The DFT study confirmed that\nMnO$_2$ adsorbed V$_2$C MXene changed from nonmagnetic (in V$_2$C MXene) to a\nstrong ferromagnetic with a magnetic moment of 4.48$\\mu$B for Mn adsorbed\nV$_2$C-OF MXene. The current work is a step-forward towards understanding of\nmagnetism in two-dimensional materials for future 2D spintronics.",
+            "url": "http://arxiv.org/abs/2411.09536v1"
+          },
+          {
+            "title": "Superior Structural, Elastic and Electronic Properties of 2D Titanium Nitride MXenes Over Carbide MXenes: A Comprehensive First Principles Study",
+            "authors": [
+              "Ning Zhang",
+              "Yu Hong",
+              "Sanaz Yazdanparast",
+              "Mohsen Asle Zaeem"
+            ],
+            "year": 2018,
+            "summary": "The structural, elastic and electronic properties of two-dimensional (2D)\ntitanium carbide/nitride based pristine (Tin+1Cn/Tin+1Nn) and functionalized\nMXenes (Tin+1CnT2/Tin+1NnT2, T stands for the terminal groups: -F, -O and -OH,\nn = 1, 2, 3) are investigated by density functional theory calculations.\nCarbide-based MXenes possess larger lattice constants and monolayer thicknesses\nthan nitride-based MXenes. The in-plane Young's moduli of Tin+1Nn are larger\nthan those of Tin+1Cn, whereas in both systems they decrease with the increase\nof the monolayer thickness. Cohesive energy calculations indicate that MXenes\nwith a larger monolayer thickness have a better structural stability.\nAdsorption energy calculations imply that Tin+1Nn have stronger preference to\nadhere to the terminal groups, which suggests more active surfaces for\nnitride-based MXenes. More importantly, nearly free electron states are\nobserved to exist outside the surfaces of -OH functionalized carbide/nitride\nbased MXenes, especially in Tin+1Nn(OH)2, which provide almost perfect\ntransmission channels without nuclear scattering for electron transport. The\noverall electrical conductivity of nitride-based MXenes is determined to be\nhigher than that of carbide-based MXenes. The exceptional properties of\ntitanium nitride-based MXenes, including strong surface adsorption, high\nelastic constant and Young's modulus, and good metallic conductivity, make them\npromising materials for catalysis and energy storage applications.",
+            "url": "http://arxiv.org/abs/1802.06648v2"
+          },
+          {
+            "title": "Predicting the pseudocapacitive windows for MXene electrodes with voltage-dependent cluster expansion models",
+            "authors": [
+              "James M. Goff",
+              "Francisco Marques dos Santos Vieira",
+              "Nathan D. Keilbart",
+              "Yasuaki Okada",
+              "Ismaila Dabo"
+            ],
+            "year": 2021,
+            "summary": "MXene transition-metal carbides and nitrides are of growing interest for\nenergy storage applications. These compounds are especially promising for use\nas pseudocapacitive electrodes due to their ability to convert energy\nelectrochemically at fast rates. Using voltage-dependent cluster expansion\nmodels, we predict the charge storage performance of MXene pseudocapacitors for\na range of electrode compositions. $M_3C_2O_2$ electrodes based on group-VI\ntransition metals have up to 80% larger areal energy densities than\nprototypical titanium-based ( e.g. $Ti_3C_2O_2$) MXene electrodes. We attribute\nthis high pseudocapacitance to the Faradaic voltage windows of group-VI MXene\nelectrodes, which are predicted to be 1.2 to 1.8 times larger than those of\ntitanium-based MXenes. The size of the pseudocapacitive voltage window\nincreases with the range of oxidation states that is accessible to the MXene\ntransition metals. By similar mechanisms, the presence of multiple ions in the\nsolvent (Li$^+$ and H$^+$) leads to sharp changes in the transition-metal\noxidation states and can significantly increase the charge capacity of MXene\npseudocapacitors.",
+            "url": "http://arxiv.org/abs/2102.11863v1"
+          },
+          {
+            "title": "V2C MXene-modified g-C3N4 for enhanced visible-light photocatalytic activity",
+            "authors": [
+              "Ruizheng Xu",
+              "Guiyu Wei",
+              "Zhemin Xie",
+              "Sijie Diao",
+              "Jianfeng Wen",
+              "Tao Tang",
+              "Li Jiang",
+              "Ming Li",
+              "Guanghui Hu"
+            ],
+            "year": 2023,
+            "summary": "Increasing the efficiency of charge transfer and separation efficiency of\nphotogenerated carriers are still the main challenges in the field of\nsemiconductor-based photocatalysts. Herein, we synthesized g-C3N4@V2C MXene\nphotocatalyst by modifying g-C3N4 using V2C MXene. The prepared photocatalyst\nexhibited outstanding photocatalytic performance under visible light. The\ndegradation efficiency of methyl orange by g-C3N4@V2C MXene photocatalyst was\nas high as 94.5%, which is 1.56 times higher than that by g-C3N4. This was\nattributed to the V2C MXene inhibiting the rapid recombination of\nphotogenerated carriers and facilitating rapid transfer of photogenerated\nelectrons (e) from g-C3N4 to MXene. Moreover, g-C3N4@V2C MXene photocatalyst\nshowed good cycling stability. The photocatalytic performance was higher than\n85% after three cycles. Experiments to capture free radicals revealed that\nsuperoxide radicals (02) are the main contributors to the photocatalytic\nactivity. Thus, the proposed g-C3N4@V2C MXene photocatalyst is a promising\nvisible-light catalyst.",
+            "url": "http://arxiv.org/abs/2310.16414v1"
+          },
+          {
+            "title": "Control of spintronic and electronic properties of bimetallic and vacancy-ordered vanadium carbide MXenes via surface functionalization",
+            "authors": [
+              "Shuo Li",
+              "Junjie He",
+              "Petr Nachtigall",
+              "Luk\u00e1\u0161 Grajciar",
+              "Federico Brivio"
+            ],
+            "year": 2019,
+            "summary": "MXenes are 2D transition metal carbides with high potential for overcoming\nlimitations of conventional two-dimensional electronics. In this context,\nvarious MXenes have shown magnetic properties suitable for applications in\nspintronics, yet the number of MXenes reported so far is far smaller than their\nparental MAX phases. Therefore, we have studied the structural, electronic and\nmagnetic properties of bimetallic and vacancy-ordered MXenes derived from a new\n$(V_{2/3}Zr_{1/3})_2AlC $ MAX phase to assess whether MXene exfoliation would\nreturn stable magnetic materials. In particular, we have investigated the\nproperties of pristine and surface-functionalized $(V_{2/3}Zr_{1/3})_2CX_2$\nbimetallic and $(V_{2/3} \\square_{1/3})_2CX2$ vacancy-ordered MXenes with X =\nO, F and OH. Our density functional theory (DFT) calculations showed that\nmodifying the MXene stoichiometry and/or MXene surface functionalization\nchanges MXene properties. After testing all possible combinations of metallic\nmotifs and functionalization, we identified $V_{2/3}Zr_{1/3})_2CX_2$,\n$(V_{2/3}\\square_{1/3})_2CF_2$ and $(V_{2/3}\\square_{1/3})_2C(OH)_2$ as stable\nstructures. Among them, $(V_{2/3}Zr_{1/3})_2CO_2$ MXene is predicted to be an\nFM intrinsic half-semiconductor with a remarkably high Curie temperature\n($T_C$)) of 270 K. The $(V_{2/3}Zr_{1/3})_2C(OH)_2$ MXene exhibits a rather low\nwork function (WF) (1.37 eV) and is thus a promising candidate for ultra-low\nwork function electron emitters. Conversely, the $(V_{2/3}\\square_{1/3})_2CF_2$\nMXene has a rather high WF and hence can be used as a hole injector for\nSchottky-barrier-free contact applications. Overall, our proof-of-concept study\nshows that theoretical predictions of MXene exfoliation and properties support\nfurther experimental research towards developing spintronics devices.",
+            "url": "http://arxiv.org/abs/1910.01509v1"
+          }
+        ],
+        "total_papers": 5,
+        "total_citations": 0,
+        "novelty_score": 0.16666666666666666
+      }
+    },
+    {
+      "design_number": 3,
+      "formula": "Mn\u2082CT\u2093",
+      "composition": {
+        "metal": "Mn",
+        "x_element": "C",
+        "ratio": "2:1"
+      },
+      "properties": {
+        "E_coh": -372.7175598144531,
+        "WF": 5.105691909790039,
+        "W_sur": 253.6524200439453,
+        "E_coh_norm": -100.6722412109375,
+        "density_sur": 2.20527982711792,
+        "l_M-X": 1.6918219327926636,
+        "l_M2-X": 1.899040937423706
+      },
+      "literature_analysis": {
+        "google_scholar": [],
+        "arxiv": [
+          {
+            "title": "A Density Functional Theory Study of Magnetic Transition in MnO2 adsorbed Vanadium Carbide (V$_2$C) MXene",
+            "authors": [
+              "Mahjabeen Fatima",
+              "Saleem Ayaz Khan",
+              "Syed Rizwan"
+            ],
+            "year": 2024,
+            "summary": "The work reports nonmagnetic behavior (0.04 $\\mu$B) in two-dimensional (2D)\nV2C-OF MXene and ferromagnetism in MnO$_2$ adsorbed V2C-OF MXene. The density\nfunctional theory (DFT) calculations were carried out to study the magnetic\nmoments of V$_2$C-OF and MnO$_2$@V$_2$C-OF MXene. The MXene, which is derived\nfrom the exfoliation of its parent V$_2$AlC MAX phase, shows a good potential\nto be a ferromagnetic when MnO$_2$ is adsorbed on it. The V$_2$C MXene and\nMnO$_2$ adsorbed V$_2$C MXene were successfully synthesized, as characterized\nusing X-ray diffraction, showing an increased c-lattice parameter from\n22.6{\\AA} to 27.2{\\AA} after MnO$_2$ adsorption. The DFT study confirmed that\nMnO$_2$ adsorbed V$_2$C MXene changed from nonmagnetic (in V$_2$C MXene) to a\nstrong ferromagnetic with a magnetic moment of 4.48$\\mu$B for Mn adsorbed\nV$_2$C-OF MXene. The current work is a step-forward towards understanding of\nmagnetism in two-dimensional materials for future 2D spintronics.",
+            "url": "http://arxiv.org/abs/2411.09536v1"
+          },
+          {
+            "title": "Superior Structural, Elastic and Electronic Properties of 2D Titanium Nitride MXenes Over Carbide MXenes: A Comprehensive First Principles Study",
+            "authors": [
+              "Ning Zhang",
+              "Yu Hong",
+              "Sanaz Yazdanparast",
+              "Mohsen Asle Zaeem"
+            ],
+            "year": 2018,
+            "summary": "The structural, elastic and electronic properties of two-dimensional (2D)\ntitanium carbide/nitride based pristine (Tin+1Cn/Tin+1Nn) and functionalized\nMXenes (Tin+1CnT2/Tin+1NnT2, T stands for the terminal groups: -F, -O and -OH,\nn = 1, 2, 3) are investigated by density functional theory calculations.\nCarbide-based MXenes possess larger lattice constants and monolayer thicknesses\nthan nitride-based MXenes. The in-plane Young's moduli of Tin+1Nn are larger\nthan those of Tin+1Cn, whereas in both systems they decrease with the increase\nof the monolayer thickness. Cohesive energy calculations indicate that MXenes\nwith a larger monolayer thickness have a better structural stability.\nAdsorption energy calculations imply that Tin+1Nn have stronger preference to\nadhere to the terminal groups, which suggests more active surfaces for\nnitride-based MXenes. More importantly, nearly free electron states are\nobserved to exist outside the surfaces of -OH functionalized carbide/nitride\nbased MXenes, especially in Tin+1Nn(OH)2, which provide almost perfect\ntransmission channels without nuclear scattering for electron transport. The\noverall electrical conductivity of nitride-based MXenes is determined to be\nhigher than that of carbide-based MXenes. The exceptional properties of\ntitanium nitride-based MXenes, including strong surface adsorption, high\nelastic constant and Young's modulus, and good metallic conductivity, make them\npromising materials for catalysis and energy storage applications.",
+            "url": "http://arxiv.org/abs/1802.06648v2"
+          },
+          {
+            "title": "Predicting the pseudocapacitive windows for MXene electrodes with voltage-dependent cluster expansion models",
+            "authors": [
+              "James M. Goff",
+              "Francisco Marques dos Santos Vieira",
+              "Nathan D. Keilbart",
+              "Yasuaki Okada",
+              "Ismaila Dabo"
+            ],
+            "year": 2021,
+            "summary": "MXene transition-metal carbides and nitrides are of growing interest for\nenergy storage applications. These compounds are especially promising for use\nas pseudocapacitive electrodes due to their ability to convert energy\nelectrochemically at fast rates. Using voltage-dependent cluster expansion\nmodels, we predict the charge storage performance of MXene pseudocapacitors for\na range of electrode compositions. $M_3C_2O_2$ electrodes based on group-VI\ntransition metals have up to 80% larger areal energy densities than\nprototypical titanium-based ( e.g. $Ti_3C_2O_2$) MXene electrodes. We attribute\nthis high pseudocapacitance to the Faradaic voltage windows of group-VI MXene\nelectrodes, which are predicted to be 1.2 to 1.8 times larger than those of\ntitanium-based MXenes. The size of the pseudocapacitive voltage window\nincreases with the range of oxidation states that is accessible to the MXene\ntransition metals. By similar mechanisms, the presence of multiple ions in the\nsolvent (Li$^+$ and H$^+$) leads to sharp changes in the transition-metal\noxidation states and can significantly increase the charge capacity of MXene\npseudocapacitors.",
+            "url": "http://arxiv.org/abs/2102.11863v1"
+          },
+          {
+            "title": "V2C MXene-modified g-C3N4 for enhanced visible-light photocatalytic activity",
+            "authors": [
+              "Ruizheng Xu",
+              "Guiyu Wei",
+              "Zhemin Xie",
+              "Sijie Diao",
+              "Jianfeng Wen",
+              "Tao Tang",
+              "Li Jiang",
+              "Ming Li",
+              "Guanghui Hu"
+            ],
+            "year": 2023,
+            "summary": "Increasing the efficiency of charge transfer and separation efficiency of\nphotogenerated carriers are still the main challenges in the field of\nsemiconductor-based photocatalysts. Herein, we synthesized g-C3N4@V2C MXene\nphotocatalyst by modifying g-C3N4 using V2C MXene. The prepared photocatalyst\nexhibited outstanding photocatalytic performance under visible light. The\ndegradation efficiency of methyl orange by g-C3N4@V2C MXene photocatalyst was\nas high as 94.5%, which is 1.56 times higher than that by g-C3N4. This was\nattributed to the V2C MXene inhibiting the rapid recombination of\nphotogenerated carriers and facilitating rapid transfer of photogenerated\nelectrons (e) from g-C3N4 to MXene. Moreover, g-C3N4@V2C MXene photocatalyst\nshowed good cycling stability. The photocatalytic performance was higher than\n85% after three cycles. Experiments to capture free radicals revealed that\nsuperoxide radicals (02) are the main contributors to the photocatalytic\nactivity. Thus, the proposed g-C3N4@V2C MXene photocatalyst is a promising\nvisible-light catalyst.",
+            "url": "http://arxiv.org/abs/2310.16414v1"
+          },
+          {
+            "title": "Control of spintronic and electronic properties of bimetallic and vacancy-ordered vanadium carbide MXenes via surface functionalization",
+            "authors": [
+              "Shuo Li",
+              "Junjie He",
+              "Petr Nachtigall",
+              "Luk\u00e1\u0161 Grajciar",
+              "Federico Brivio"
+            ],
+            "year": 2019,
+            "summary": "MXenes are 2D transition metal carbides with high potential for overcoming\nlimitations of conventional two-dimensional electronics. In this context,\nvarious MXenes have shown magnetic properties suitable for applications in\nspintronics, yet the number of MXenes reported so far is far smaller than their\nparental MAX phases. Therefore, we have studied the structural, electronic and\nmagnetic properties of bimetallic and vacancy-ordered MXenes derived from a new\n$(V_{2/3}Zr_{1/3})_2AlC $ MAX phase to assess whether MXene exfoliation would\nreturn stable magnetic materials. In particular, we have investigated the\nproperties of pristine and surface-functionalized $(V_{2/3}Zr_{1/3})_2CX_2$\nbimetallic and $(V_{2/3} \\square_{1/3})_2CX2$ vacancy-ordered MXenes with X =\nO, F and OH. Our density functional theory (DFT) calculations showed that\nmodifying the MXene stoichiometry and/or MXene surface functionalization\nchanges MXene properties. After testing all possible combinations of metallic\nmotifs and functionalization, we identified $V_{2/3}Zr_{1/3})_2CX_2$,\n$(V_{2/3}\\square_{1/3})_2CF_2$ and $(V_{2/3}\\square_{1/3})_2C(OH)_2$ as stable\nstructures. Among them, $(V_{2/3}Zr_{1/3})_2CO_2$ MXene is predicted to be an\nFM intrinsic half-semiconductor with a remarkably high Curie temperature\n($T_C$)) of 270 K. The $(V_{2/3}Zr_{1/3})_2C(OH)_2$ MXene exhibits a rather low\nwork function (WF) (1.37 eV) and is thus a promising candidate for ultra-low\nwork function electron emitters. Conversely, the $(V_{2/3}\\square_{1/3})_2CF_2$\nMXene has a rather high WF and hence can be used as a hole injector for\nSchottky-barrier-free contact applications. Overall, our proof-of-concept study\nshows that theoretical predictions of MXene exfoliation and properties support\nfurther experimental research towards developing spintronics devices.",
+            "url": "http://arxiv.org/abs/1910.01509v1"
+          }
+        ],
+        "total_papers": 5,
+        "total_citations": 0,
+        "novelty_score": 0.16666666666666666
+      }
+    },
+    {
+      "design_number": 4,
+      "formula": "Mn\u2082CT\u2093",
+      "composition": {
+        "metal": "Mn",
+        "x_element": "C",
+        "ratio": "2:1"
+      },
+      "properties": {
+        "E_coh": -404.6872253417969,
+        "WF": 5.01931095123291,
+        "W_sur": 246.93878173828125,
+        "E_coh_norm": -105.77181243896484,
+        "density_sur": 2.258951425552368,
+        "l_M-X": 1.610491394996643,
+        "l_M2-X": 1.8232636451721191
+      },
+      "literature_analysis": {
+        "google_scholar": [],
+        "arxiv": [
+          {
+            "title": "A Density Functional Theory Study of Magnetic Transition in MnO2 adsorbed Vanadium Carbide (V$_2$C) MXene",
+            "authors": [
+              "Mahjabeen Fatima",
+              "Saleem Ayaz Khan",
+              "Syed Rizwan"
+            ],
+            "year": 2024,
+            "summary": "The work reports nonmagnetic behavior (0.04 $\\mu$B) in two-dimensional (2D)\nV2C-OF MXene and ferromagnetism in MnO$_2$ adsorbed V2C-OF MXene. The density\nfunctional theory (DFT) calculations were carried out to study the magnetic\nmoments of V$_2$C-OF and MnO$_2$@V$_2$C-OF MXene. The MXene, which is derived\nfrom the exfoliation of its parent V$_2$AlC MAX phase, shows a good potential\nto be a ferromagnetic when MnO$_2$ is adsorbed on it. The V$_2$C MXene and\nMnO$_2$ adsorbed V$_2$C MXene were successfully synthesized, as characterized\nusing X-ray diffraction, showing an increased c-lattice parameter from\n22.6{\\AA} to 27.2{\\AA} after MnO$_2$ adsorption. The DFT study confirmed that\nMnO$_2$ adsorbed V$_2$C MXene changed from nonmagnetic (in V$_2$C MXene) to a\nstrong ferromagnetic with a magnetic moment of 4.48$\\mu$B for Mn adsorbed\nV$_2$C-OF MXene. The current work is a step-forward towards understanding of\nmagnetism in two-dimensional materials for future 2D spintronics.",
+            "url": "http://arxiv.org/abs/2411.09536v1"
+          },
+          {
+            "title": "Superior Structural, Elastic and Electronic Properties of 2D Titanium Nitride MXenes Over Carbide MXenes: A Comprehensive First Principles Study",
+            "authors": [
+              "Ning Zhang",
+              "Yu Hong",
+              "Sanaz Yazdanparast",
+              "Mohsen Asle Zaeem"
+            ],
+            "year": 2018,
+            "summary": "The structural, elastic and electronic properties of two-dimensional (2D)\ntitanium carbide/nitride based pristine (Tin+1Cn/Tin+1Nn) and functionalized\nMXenes (Tin+1CnT2/Tin+1NnT2, T stands for the terminal groups: -F, -O and -OH,\nn = 1, 2, 3) are investigated by density functional theory calculations.\nCarbide-based MXenes possess larger lattice constants and monolayer thicknesses\nthan nitride-based MXenes. The in-plane Young's moduli of Tin+1Nn are larger\nthan those of Tin+1Cn, whereas in both systems they decrease with the increase\nof the monolayer thickness. Cohesive energy calculations indicate that MXenes\nwith a larger monolayer thickness have a better structural stability.\nAdsorption energy calculations imply that Tin+1Nn have stronger preference to\nadhere to the terminal groups, which suggests more active surfaces for\nnitride-based MXenes. More importantly, nearly free electron states are\nobserved to exist outside the surfaces of -OH functionalized carbide/nitride\nbased MXenes, especially in Tin+1Nn(OH)2, which provide almost perfect\ntransmission channels without nuclear scattering for electron transport. The\noverall electrical conductivity of nitride-based MXenes is determined to be\nhigher than that of carbide-based MXenes. The exceptional properties of\ntitanium nitride-based MXenes, including strong surface adsorption, high\nelastic constant and Young's modulus, and good metallic conductivity, make them\npromising materials for catalysis and energy storage applications.",
+            "url": "http://arxiv.org/abs/1802.06648v2"
+          },
+          {
+            "title": "Predicting the pseudocapacitive windows for MXene electrodes with voltage-dependent cluster expansion models",
+            "authors": [
+              "James M. Goff",
+              "Francisco Marques dos Santos Vieira",
+              "Nathan D. Keilbart",
+              "Yasuaki Okada",
+              "Ismaila Dabo"
+            ],
+            "year": 2021,
+            "summary": "MXene transition-metal carbides and nitrides are of growing interest for\nenergy storage applications. These compounds are especially promising for use\nas pseudocapacitive electrodes due to their ability to convert energy\nelectrochemically at fast rates. Using voltage-dependent cluster expansion\nmodels, we predict the charge storage performance of MXene pseudocapacitors for\na range of electrode compositions. $M_3C_2O_2$ electrodes based on group-VI\ntransition metals have up to 80% larger areal energy densities than\nprototypical titanium-based ( e.g. $Ti_3C_2O_2$) MXene electrodes. We attribute\nthis high pseudocapacitance to the Faradaic voltage windows of group-VI MXene\nelectrodes, which are predicted to be 1.2 to 1.8 times larger than those of\ntitanium-based MXenes. The size of the pseudocapacitive voltage window\nincreases with the range of oxidation states that is accessible to the MXene\ntransition metals. By similar mechanisms, the presence of multiple ions in the\nsolvent (Li$^+$ and H$^+$) leads to sharp changes in the transition-metal\noxidation states and can significantly increase the charge capacity of MXene\npseudocapacitors.",
+            "url": "http://arxiv.org/abs/2102.11863v1"
+          },
+          {
+            "title": "V2C MXene-modified g-C3N4 for enhanced visible-light photocatalytic activity",
+            "authors": [
+              "Ruizheng Xu",
+              "Guiyu Wei",
+              "Zhemin Xie",
+              "Sijie Diao",
+              "Jianfeng Wen",
+              "Tao Tang",
+              "Li Jiang",
+              "Ming Li",
+              "Guanghui Hu"
+            ],
+            "year": 2023,
+            "summary": "Increasing the efficiency of charge transfer and separation efficiency of\nphotogenerated carriers are still the main challenges in the field of\nsemiconductor-based photocatalysts. Herein, we synthesized g-C3N4@V2C MXene\nphotocatalyst by modifying g-C3N4 using V2C MXene. The prepared photocatalyst\nexhibited outstanding photocatalytic performance under visible light. The\ndegradation efficiency of methyl orange by g-C3N4@V2C MXene photocatalyst was\nas high as 94.5%, which is 1.56 times higher than that by g-C3N4. This was\nattributed to the V2C MXene inhibiting the rapid recombination of\nphotogenerated carriers and facilitating rapid transfer of photogenerated\nelectrons (e) from g-C3N4 to MXene. Moreover, g-C3N4@V2C MXene photocatalyst\nshowed good cycling stability. The photocatalytic performance was higher than\n85% after three cycles. Experiments to capture free radicals revealed that\nsuperoxide radicals (02) are the main contributors to the photocatalytic\nactivity. Thus, the proposed g-C3N4@V2C MXene photocatalyst is a promising\nvisible-light catalyst.",
+            "url": "http://arxiv.org/abs/2310.16414v1"
+          },
+          {
+            "title": "Control of spintronic and electronic properties of bimetallic and vacancy-ordered vanadium carbide MXenes via surface functionalization",
+            "authors": [
+              "Shuo Li",
+              "Junjie He",
+              "Petr Nachtigall",
+              "Luk\u00e1\u0161 Grajciar",
+              "Federico Brivio"
+            ],
+            "year": 2019,
+            "summary": "MXenes are 2D transition metal carbides with high potential for overcoming\nlimitations of conventional two-dimensional electronics. In this context,\nvarious MXenes have shown magnetic properties suitable for applications in\nspintronics, yet the number of MXenes reported so far is far smaller than their\nparental MAX phases. Therefore, we have studied the structural, electronic and\nmagnetic properties of bimetallic and vacancy-ordered MXenes derived from a new\n$(V_{2/3}Zr_{1/3})_2AlC $ MAX phase to assess whether MXene exfoliation would\nreturn stable magnetic materials. In particular, we have investigated the\nproperties of pristine and surface-functionalized $(V_{2/3}Zr_{1/3})_2CX_2$\nbimetallic and $(V_{2/3} \\square_{1/3})_2CX2$ vacancy-ordered MXenes with X =\nO, F and OH. Our density functional theory (DFT) calculations showed that\nmodifying the MXene stoichiometry and/or MXene surface functionalization\nchanges MXene properties. After testing all possible combinations of metallic\nmotifs and functionalization, we identified $V_{2/3}Zr_{1/3})_2CX_2$,\n$(V_{2/3}\\square_{1/3})_2CF_2$ and $(V_{2/3}\\square_{1/3})_2C(OH)_2$ as stable\nstructures. Among them, $(V_{2/3}Zr_{1/3})_2CO_2$ MXene is predicted to be an\nFM intrinsic half-semiconductor with a remarkably high Curie temperature\n($T_C$)) of 270 K. The $(V_{2/3}Zr_{1/3})_2C(OH)_2$ MXene exhibits a rather low\nwork function (WF) (1.37 eV) and is thus a promising candidate for ultra-low\nwork function electron emitters. Conversely, the $(V_{2/3}\\square_{1/3})_2CF_2$\nMXene has a rather high WF and hence can be used as a hole injector for\nSchottky-barrier-free contact applications. Overall, our proof-of-concept study\nshows that theoretical predictions of MXene exfoliation and properties support\nfurther experimental research towards developing spintronics devices.",
+            "url": "http://arxiv.org/abs/1910.01509v1"
+          }
+        ],
+        "total_papers": 5,
+        "total_citations": 0,
+        "novelty_score": 0.16666666666666666
+      }
+    },
+    {
+      "design_number": 5,
+      "formula": "Mn\u2082CT\u2093",
+      "composition": {
+        "metal": "Mn",
+        "x_element": "C",
+        "ratio": "2:1"
+      },
+      "properties": {
+        "E_coh": -406.284423828125,
+        "WF": 5.1686553955078125,
+        "W_sur": 249.3271484375,
+        "E_coh_norm": -110.00150299072266,
+        "density_sur": 2.1728579998016357,
+        "l_M-X": 1.6329514980316162,
+        "l_M2-X": 1.8290715217590332
+      },
+      "literature_analysis": {
+        "google_scholar": [],
+        "arxiv": [
+          {
+            "title": "A Density Functional Theory Study of Magnetic Transition in MnO2 adsorbed Vanadium Carbide (V$_2$C) MXene",
+            "authors": [
+              "Mahjabeen Fatima",
+              "Saleem Ayaz Khan",
+              "Syed Rizwan"
+            ],
+            "year": 2024,
+            "summary": "The work reports nonmagnetic behavior (0.04 $\\mu$B) in two-dimensional (2D)\nV2C-OF MXene and ferromagnetism in MnO$_2$ adsorbed V2C-OF MXene. The density\nfunctional theory (DFT) calculations were carried out to study the magnetic\nmoments of V$_2$C-OF and MnO$_2$@V$_2$C-OF MXene. The MXene, which is derived\nfrom the exfoliation of its parent V$_2$AlC MAX phase, shows a good potential\nto be a ferromagnetic when MnO$_2$ is adsorbed on it. The V$_2$C MXene and\nMnO$_2$ adsorbed V$_2$C MXene were successfully synthesized, as characterized\nusing X-ray diffraction, showing an increased c-lattice parameter from\n22.6{\\AA} to 27.2{\\AA} after MnO$_2$ adsorption. The DFT study confirmed that\nMnO$_2$ adsorbed V$_2$C MXene changed from nonmagnetic (in V$_2$C MXene) to a\nstrong ferromagnetic with a magnetic moment of 4.48$\\mu$B for Mn adsorbed\nV$_2$C-OF MXene. The current work is a step-forward towards understanding of\nmagnetism in two-dimensional materials for future 2D spintronics.",
+            "url": "http://arxiv.org/abs/2411.09536v1"
+          },
+          {
+            "title": "Superior Structural, Elastic and Electronic Properties of 2D Titanium Nitride MXenes Over Carbide MXenes: A Comprehensive First Principles Study",
+            "authors": [
+              "Ning Zhang",
+              "Yu Hong",
+              "Sanaz Yazdanparast",
+              "Mohsen Asle Zaeem"
+            ],
+            "year": 2018,
+            "summary": "The structural, elastic and electronic properties of two-dimensional (2D)\ntitanium carbide/nitride based pristine (Tin+1Cn/Tin+1Nn) and functionalized\nMXenes (Tin+1CnT2/Tin+1NnT2, T stands for the terminal groups: -F, -O and -OH,\nn = 1, 2, 3) are investigated by density functional theory calculations.\nCarbide-based MXenes possess larger lattice constants and monolayer thicknesses\nthan nitride-based MXenes. The in-plane Young's moduli of Tin+1Nn are larger\nthan those of Tin+1Cn, whereas in both systems they decrease with the increase\nof the monolayer thickness. Cohesive energy calculations indicate that MXenes\nwith a larger monolayer thickness have a better structural stability.\nAdsorption energy calculations imply that Tin+1Nn have stronger preference to\nadhere to the terminal groups, which suggests more active surfaces for\nnitride-based MXenes. More importantly, nearly free electron states are\nobserved to exist outside the surfaces of -OH functionalized carbide/nitride\nbased MXenes, especially in Tin+1Nn(OH)2, which provide almost perfect\ntransmission channels without nuclear scattering for electron transport. The\noverall electrical conductivity of nitride-based MXenes is determined to be\nhigher than that of carbide-based MXenes. The exceptional properties of\ntitanium nitride-based MXenes, including strong surface adsorption, high\nelastic constant and Young's modulus, and good metallic conductivity, make them\npromising materials for catalysis and energy storage applications.",
+            "url": "http://arxiv.org/abs/1802.06648v2"
+          },
+          {
+            "title": "Predicting the pseudocapacitive windows for MXene electrodes with voltage-dependent cluster expansion models",
+            "authors": [
+              "James M. Goff",
+              "Francisco Marques dos Santos Vieira",
+              "Nathan D. Keilbart",
+              "Yasuaki Okada",
+              "Ismaila Dabo"
+            ],
+            "year": 2021,
+            "summary": "MXene transition-metal carbides and nitrides are of growing interest for\nenergy storage applications. These compounds are especially promising for use\nas pseudocapacitive electrodes due to their ability to convert energy\nelectrochemically at fast rates. Using voltage-dependent cluster expansion\nmodels, we predict the charge storage performance of MXene pseudocapacitors for\na range of electrode compositions. $M_3C_2O_2$ electrodes based on group-VI\ntransition metals have up to 80% larger areal energy densities than\nprototypical titanium-based ( e.g. $Ti_3C_2O_2$) MXene electrodes. We attribute\nthis high pseudocapacitance to the Faradaic voltage windows of group-VI MXene\nelectrodes, which are predicted to be 1.2 to 1.8 times larger than those of\ntitanium-based MXenes. The size of the pseudocapacitive voltage window\nincreases with the range of oxidation states that is accessible to the MXene\ntransition metals. By similar mechanisms, the presence of multiple ions in the\nsolvent (Li$^+$ and H$^+$) leads to sharp changes in the transition-metal\noxidation states and can significantly increase the charge capacity of MXene\npseudocapacitors.",
+            "url": "http://arxiv.org/abs/2102.11863v1"
+          },
+          {
+            "title": "V2C MXene-modified g-C3N4 for enhanced visible-light photocatalytic activity",
+            "authors": [
+              "Ruizheng Xu",
+              "Guiyu Wei",
+              "Zhemin Xie",
+              "Sijie Diao",
+              "Jianfeng Wen",
+              "Tao Tang",
+              "Li Jiang",
+              "Ming Li",
+              "Guanghui Hu"
+            ],
+            "year": 2023,
+            "summary": "Increasing the efficiency of charge transfer and separation efficiency of\nphotogenerated carriers are still the main challenges in the field of\nsemiconductor-based photocatalysts. Herein, we synthesized g-C3N4@V2C MXene\nphotocatalyst by modifying g-C3N4 using V2C MXene. The prepared photocatalyst\nexhibited outstanding photocatalytic performance under visible light. The\ndegradation efficiency of methyl orange by g-C3N4@V2C MXene photocatalyst was\nas high as 94.5%, which is 1.56 times higher than that by g-C3N4. This was\nattributed to the V2C MXene inhibiting the rapid recombination of\nphotogenerated carriers and facilitating rapid transfer of photogenerated\nelectrons (e) from g-C3N4 to MXene. Moreover, g-C3N4@V2C MXene photocatalyst\nshowed good cycling stability. The photocatalytic performance was higher than\n85% after three cycles. Experiments to capture free radicals revealed that\nsuperoxide radicals (02) are the main contributors to the photocatalytic\nactivity. Thus, the proposed g-C3N4@V2C MXene photocatalyst is a promising\nvisible-light catalyst.",
+            "url": "http://arxiv.org/abs/2310.16414v1"
+          },
+          {
+            "title": "Control of spintronic and electronic properties of bimetallic and vacancy-ordered vanadium carbide MXenes via surface functionalization",
+            "authors": [
+              "Shuo Li",
+              "Junjie He",
+              "Petr Nachtigall",
+              "Luk\u00e1\u0161 Grajciar",
+              "Federico Brivio"
+            ],
+            "year": 2019,
+            "summary": "MXenes are 2D transition metal carbides with high potential for overcoming\nlimitations of conventional two-dimensional electronics. In this context,\nvarious MXenes have shown magnetic properties suitable for applications in\nspintronics, yet the number of MXenes reported so far is far smaller than their\nparental MAX phases. Therefore, we have studied the structural, electronic and\nmagnetic properties of bimetallic and vacancy-ordered MXenes derived from a new\n$(V_{2/3}Zr_{1/3})_2AlC $ MAX phase to assess whether MXene exfoliation would\nreturn stable magnetic materials. In particular, we have investigated the\nproperties of pristine and surface-functionalized $(V_{2/3}Zr_{1/3})_2CX_2$\nbimetallic and $(V_{2/3} \\square_{1/3})_2CX2$ vacancy-ordered MXenes with X =\nO, F and OH. Our density functional theory (DFT) calculations showed that\nmodifying the MXene stoichiometry and/or MXene surface functionalization\nchanges MXene properties. After testing all possible combinations of metallic\nmotifs and functionalization, we identified $V_{2/3}Zr_{1/3})_2CX_2$,\n$(V_{2/3}\\square_{1/3})_2CF_2$ and $(V_{2/3}\\square_{1/3})_2C(OH)_2$ as stable\nstructures. Among them, $(V_{2/3}Zr_{1/3})_2CO_2$ MXene is predicted to be an\nFM intrinsic half-semiconductor with a remarkably high Curie temperature\n($T_C$)) of 270 K. The $(V_{2/3}Zr_{1/3})_2C(OH)_2$ MXene exhibits a rather low\nwork function (WF) (1.37 eV) and is thus a promising candidate for ultra-low\nwork function electron emitters. Conversely, the $(V_{2/3}\\square_{1/3})_2CF_2$\nMXene has a rather high WF and hence can be used as a hole injector for\nSchottky-barrier-free contact applications. Overall, our proof-of-concept study\nshows that theoretical predictions of MXene exfoliation and properties support\nfurther experimental research towards developing spintronics devices.",
+            "url": "http://arxiv.org/abs/1910.01509v1"
+          }
+        ],
+        "total_papers": 5,
+        "total_citations": 0,
+        "novelty_score": 0.16666666666666666
+      }
+    },
+    {
+      "design_number": 6,
+      "formula": "Mn\u2082CT\u2093",
+      "composition": {
+        "metal": "Mn",
+        "x_element": "C",
+        "ratio": "2:1"
+      },
+      "properties": {
+        "E_coh": -395.6049499511719,
+        "WF": 4.890279293060303,
+        "W_sur": 252.58963012695312,
+        "E_coh_norm": -106.79060363769531,
+        "density_sur": 2.247262954711914,
+        "l_M-X": 1.653648853302002,
+        "l_M2-X": 1.860474705696106
+      },
+      "literature_analysis": {
+        "google_scholar": [],
+        "arxiv": [
+          {
+            "title": "A Density Functional Theory Study of Magnetic Transition in MnO2 adsorbed Vanadium Carbide (V$_2$C) MXene",
+            "authors": [
+              "Mahjabeen Fatima",
+              "Saleem Ayaz Khan",
+              "Syed Rizwan"
+            ],
+            "year": 2024,
+            "summary": "The work reports nonmagnetic behavior (0.04 $\\mu$B) in two-dimensional (2D)\nV2C-OF MXene and ferromagnetism in MnO$_2$ adsorbed V2C-OF MXene. The density\nfunctional theory (DFT) calculations were carried out to study the magnetic\nmoments of V$_2$C-OF and MnO$_2$@V$_2$C-OF MXene. The MXene, which is derived\nfrom the exfoliation of its parent V$_2$AlC MAX phase, shows a good potential\nto be a ferromagnetic when MnO$_2$ is adsorbed on it. The V$_2$C MXene and\nMnO$_2$ adsorbed V$_2$C MXene were successfully synthesized, as characterized\nusing X-ray diffraction, showing an increased c-lattice parameter from\n22.6{\\AA} to 27.2{\\AA} after MnO$_2$ adsorption. The DFT study confirmed that\nMnO$_2$ adsorbed V$_2$C MXene changed from nonmagnetic (in V$_2$C MXene) to a\nstrong ferromagnetic with a magnetic moment of 4.48$\\mu$B for Mn adsorbed\nV$_2$C-OF MXene. The current work is a step-forward towards understanding of\nmagnetism in two-dimensional materials for future 2D spintronics.",
+            "url": "http://arxiv.org/abs/2411.09536v1"
+          },
+          {
+            "title": "Superior Structural, Elastic and Electronic Properties of 2D Titanium Nitride MXenes Over Carbide MXenes: A Comprehensive First Principles Study",
+            "authors": [
+              "Ning Zhang",
+              "Yu Hong",
+              "Sanaz Yazdanparast",
+              "Mohsen Asle Zaeem"
+            ],
+            "year": 2018,
+            "summary": "The structural, elastic and electronic properties of two-dimensional (2D)\ntitanium carbide/nitride based pristine (Tin+1Cn/Tin+1Nn) and functionalized\nMXenes (Tin+1CnT2/Tin+1NnT2, T stands for the terminal groups: -F, -O and -OH,\nn = 1, 2, 3) are investigated by density functional theory calculations.\nCarbide-based MXenes possess larger lattice constants and monolayer thicknesses\nthan nitride-based MXenes. The in-plane Young's moduli of Tin+1Nn are larger\nthan those of Tin+1Cn, whereas in both systems they decrease with the increase\nof the monolayer thickness. Cohesive energy calculations indicate that MXenes\nwith a larger monolayer thickness have a better structural stability.\nAdsorption energy calculations imply that Tin+1Nn have stronger preference to\nadhere to the terminal groups, which suggests more active surfaces for\nnitride-based MXenes. More importantly, nearly free electron states are\nobserved to exist outside the surfaces of -OH functionalized carbide/nitride\nbased MXenes, especially in Tin+1Nn(OH)2, which provide almost perfect\ntransmission channels without nuclear scattering for electron transport. The\noverall electrical conductivity of nitride-based MXenes is determined to be\nhigher than that of carbide-based MXenes. The exceptional properties of\ntitanium nitride-based MXenes, including strong surface adsorption, high\nelastic constant and Young's modulus, and good metallic conductivity, make them\npromising materials for catalysis and energy storage applications.",
+            "url": "http://arxiv.org/abs/1802.06648v2"
+          },
+          {
+            "title": "Predicting the pseudocapacitive windows for MXene electrodes with voltage-dependent cluster expansion models",
+            "authors": [
+              "James M. Goff",
+              "Francisco Marques dos Santos Vieira",
+              "Nathan D. Keilbart",
+              "Yasuaki Okada",
+              "Ismaila Dabo"
+            ],
+            "year": 2021,
+            "summary": "MXene transition-metal carbides and nitrides are of growing interest for\nenergy storage applications. These compounds are especially promising for use\nas pseudocapacitive electrodes due to their ability to convert energy\nelectrochemically at fast rates. Using voltage-dependent cluster expansion\nmodels, we predict the charge storage performance of MXene pseudocapacitors for\na range of electrode compositions. $M_3C_2O_2$ electrodes based on group-VI\ntransition metals have up to 80% larger areal energy densities than\nprototypical titanium-based ( e.g. $Ti_3C_2O_2$) MXene electrodes. We attribute\nthis high pseudocapacitance to the Faradaic voltage windows of group-VI MXene\nelectrodes, which are predicted to be 1.2 to 1.8 times larger than those of\ntitanium-based MXenes. The size of the pseudocapacitive voltage window\nincreases with the range of oxidation states that is accessible to the MXene\ntransition metals. By similar mechanisms, the presence of multiple ions in the\nsolvent (Li$^+$ and H$^+$) leads to sharp changes in the transition-metal\noxidation states and can significantly increase the charge capacity of MXene\npseudocapacitors.",
+            "url": "http://arxiv.org/abs/2102.11863v1"
+          },
+          {
+            "title": "V2C MXene-modified g-C3N4 for enhanced visible-light photocatalytic activity",
+            "authors": [
+              "Ruizheng Xu",
+              "Guiyu Wei",
+              "Zhemin Xie",
+              "Sijie Diao",
+              "Jianfeng Wen",
+              "Tao Tang",
+              "Li Jiang",
+              "Ming Li",
+              "Guanghui Hu"
+            ],
+            "year": 2023,
+            "summary": "Increasing the efficiency of charge transfer and separation efficiency of\nphotogenerated carriers are still the main challenges in the field of\nsemiconductor-based photocatalysts. Herein, we synthesized g-C3N4@V2C MXene\nphotocatalyst by modifying g-C3N4 using V2C MXene. The prepared photocatalyst\nexhibited outstanding photocatalytic performance under visible light. The\ndegradation efficiency of methyl orange by g-C3N4@V2C MXene photocatalyst was\nas high as 94.5%, which is 1.56 times higher than that by g-C3N4. This was\nattributed to the V2C MXene inhibiting the rapid recombination of\nphotogenerated carriers and facilitating rapid transfer of photogenerated\nelectrons (e) from g-C3N4 to MXene. Moreover, g-C3N4@V2C MXene photocatalyst\nshowed good cycling stability. The photocatalytic performance was higher than\n85% after three cycles. Experiments to capture free radicals revealed that\nsuperoxide radicals (02) are the main contributors to the photocatalytic\nactivity. Thus, the proposed g-C3N4@V2C MXene photocatalyst is a promising\nvisible-light catalyst.",
+            "url": "http://arxiv.org/abs/2310.16414v1"
+          },
+          {
+            "title": "Control of spintronic and electronic properties of bimetallic and vacancy-ordered vanadium carbide MXenes via surface functionalization",
+            "authors": [
+              "Shuo Li",
+              "Junjie He",
+              "Petr Nachtigall",
+              "Luk\u00e1\u0161 Grajciar",
+              "Federico Brivio"
+            ],
+            "year": 2019,
+            "summary": "MXenes are 2D transition metal carbides with high potential for overcoming\nlimitations of conventional two-dimensional electronics. In this context,\nvarious MXenes have shown magnetic properties suitable for applications in\nspintronics, yet the number of MXenes reported so far is far smaller than their\nparental MAX phases. Therefore, we have studied the structural, electronic and\nmagnetic properties of bimetallic and vacancy-ordered MXenes derived from a new\n$(V_{2/3}Zr_{1/3})_2AlC $ MAX phase to assess whether MXene exfoliation would\nreturn stable magnetic materials. In particular, we have investigated the\nproperties of pristine and surface-functionalized $(V_{2/3}Zr_{1/3})_2CX_2$\nbimetallic and $(V_{2/3} \\square_{1/3})_2CX2$ vacancy-ordered MXenes with X =\nO, F and OH. Our density functional theory (DFT) calculations showed that\nmodifying the MXene stoichiometry and/or MXene surface functionalization\nchanges MXene properties. After testing all possible combinations of metallic\nmotifs and functionalization, we identified $V_{2/3}Zr_{1/3})_2CX_2$,\n$(V_{2/3}\\square_{1/3})_2CF_2$ and $(V_{2/3}\\square_{1/3})_2C(OH)_2$ as stable\nstructures. Among them, $(V_{2/3}Zr_{1/3})_2CO_2$ MXene is predicted to be an\nFM intrinsic half-semiconductor with a remarkably high Curie temperature\n($T_C$)) of 270 K. The $(V_{2/3}Zr_{1/3})_2C(OH)_2$ MXene exhibits a rather low\nwork function (WF) (1.37 eV) and is thus a promising candidate for ultra-low\nwork function electron emitters. Conversely, the $(V_{2/3}\\square_{1/3})_2CF_2$\nMXene has a rather high WF and hence can be used as a hole injector for\nSchottky-barrier-free contact applications. Overall, our proof-of-concept study\nshows that theoretical predictions of MXene exfoliation and properties support\nfurther experimental research towards developing spintronics devices.",
+            "url": "http://arxiv.org/abs/1910.01509v1"
+          }
+        ],
+        "total_papers": 5,
+        "total_citations": 0,
+        "novelty_score": 0.16666666666666666
+      }
+    },
+    {
+      "design_number": 7,
+      "formula": "Ti\u2082CT\u2093",
+      "composition": {
+        "metal": "Ti",
+        "x_element": "C",
+        "ratio": "2:1"
+      },
+      "properties": {
+        "E_coh": -394.4166564941406,
+        "WF": 5.394846439361572,
+        "W_sur": 254.2471923828125,
+        "E_coh_norm": -101.95712280273438,
+        "density_sur": 2.2628095149993896,
+        "l_M-X": 1.6457995176315308,
+        "l_M2-X": 1.8600648641586304
+      },
+      "literature_analysis": {
+        "google_scholar": [],
+        "arxiv": [
+          {
+            "title": "A Density Functional Theory Study of Magnetic Transition in MnO2 adsorbed Vanadium Carbide (V$_2$C) MXene",
+            "authors": [
+              "Mahjabeen Fatima",
+              "Saleem Ayaz Khan",
+              "Syed Rizwan"
+            ],
+            "year": 2024,
+            "summary": "The work reports nonmagnetic behavior (0.04 $\\mu$B) in two-dimensional (2D)\nV2C-OF MXene and ferromagnetism in MnO$_2$ adsorbed V2C-OF MXene. The density\nfunctional theory (DFT) calculations were carried out to study the magnetic\nmoments of V$_2$C-OF and MnO$_2$@V$_2$C-OF MXene. The MXene, which is derived\nfrom the exfoliation of its parent V$_2$AlC MAX phase, shows a good potential\nto be a ferromagnetic when MnO$_2$ is adsorbed on it. The V$_2$C MXene and\nMnO$_2$ adsorbed V$_2$C MXene were successfully synthesized, as characterized\nusing X-ray diffraction, showing an increased c-lattice parameter from\n22.6{\\AA} to 27.2{\\AA} after MnO$_2$ adsorption. The DFT study confirmed that\nMnO$_2$ adsorbed V$_2$C MXene changed from nonmagnetic (in V$_2$C MXene) to a\nstrong ferromagnetic with a magnetic moment of 4.48$\\mu$B for Mn adsorbed\nV$_2$C-OF MXene. The current work is a step-forward towards understanding of\nmagnetism in two-dimensional materials for future 2D spintronics.",
+            "url": "http://arxiv.org/abs/2411.09536v1"
+          },
+          {
+            "title": "Superior Structural, Elastic and Electronic Properties of 2D Titanium Nitride MXenes Over Carbide MXenes: A Comprehensive First Principles Study",
+            "authors": [
+              "Ning Zhang",
+              "Yu Hong",
+              "Sanaz Yazdanparast",
+              "Mohsen Asle Zaeem"
+            ],
+            "year": 2018,
+            "summary": "The structural, elastic and electronic properties of two-dimensional (2D)\ntitanium carbide/nitride based pristine (Tin+1Cn/Tin+1Nn) and functionalized\nMXenes (Tin+1CnT2/Tin+1NnT2, T stands for the terminal groups: -F, -O and -OH,\nn = 1, 2, 3) are investigated by density functional theory calculations.\nCarbide-based MXenes possess larger lattice constants and monolayer thicknesses\nthan nitride-based MXenes. The in-plane Young's moduli of Tin+1Nn are larger\nthan those of Tin+1Cn, whereas in both systems they decrease with the increase\nof the monolayer thickness. Cohesive energy calculations indicate that MXenes\nwith a larger monolayer thickness have a better structural stability.\nAdsorption energy calculations imply that Tin+1Nn have stronger preference to\nadhere to the terminal groups, which suggests more active surfaces for\nnitride-based MXenes. More importantly, nearly free electron states are\nobserved to exist outside the surfaces of -OH functionalized carbide/nitride\nbased MXenes, especially in Tin+1Nn(OH)2, which provide almost perfect\ntransmission channels without nuclear scattering for electron transport. The\noverall electrical conductivity of nitride-based MXenes is determined to be\nhigher than that of carbide-based MXenes. The exceptional properties of\ntitanium nitride-based MXenes, including strong surface adsorption, high\nelastic constant and Young's modulus, and good metallic conductivity, make them\npromising materials for catalysis and energy storage applications.",
+            "url": "http://arxiv.org/abs/1802.06648v2"
+          },
+          {
+            "title": "Predicting the pseudocapacitive windows for MXene electrodes with voltage-dependent cluster expansion models",
+            "authors": [
+              "James M. Goff",
+              "Francisco Marques dos Santos Vieira",
+              "Nathan D. Keilbart",
+              "Yasuaki Okada",
+              "Ismaila Dabo"
+            ],
+            "year": 2021,
+            "summary": "MXene transition-metal carbides and nitrides are of growing interest for\nenergy storage applications. These compounds are especially promising for use\nas pseudocapacitive electrodes due to their ability to convert energy\nelectrochemically at fast rates. Using voltage-dependent cluster expansion\nmodels, we predict the charge storage performance of MXene pseudocapacitors for\na range of electrode compositions. $M_3C_2O_2$ electrodes based on group-VI\ntransition metals have up to 80% larger areal energy densities than\nprototypical titanium-based ( e.g. $Ti_3C_2O_2$) MXene electrodes. We attribute\nthis high pseudocapacitance to the Faradaic voltage windows of group-VI MXene\nelectrodes, which are predicted to be 1.2 to 1.8 times larger than those of\ntitanium-based MXenes. The size of the pseudocapacitive voltage window\nincreases with the range of oxidation states that is accessible to the MXene\ntransition metals. By similar mechanisms, the presence of multiple ions in the\nsolvent (Li$^+$ and H$^+$) leads to sharp changes in the transition-metal\noxidation states and can significantly increase the charge capacity of MXene\npseudocapacitors.",
+            "url": "http://arxiv.org/abs/2102.11863v1"
+          },
+          {
+            "title": "V2C MXene-modified g-C3N4 for enhanced visible-light photocatalytic activity",
+            "authors": [
+              "Ruizheng Xu",
+              "Guiyu Wei",
+              "Zhemin Xie",
+              "Sijie Diao",
+              "Jianfeng Wen",
+              "Tao Tang",
+              "Li Jiang",
+              "Ming Li",
+              "Guanghui Hu"
+            ],
+            "year": 2023,
+            "summary": "Increasing the efficiency of charge transfer and separation efficiency of\nphotogenerated carriers are still the main challenges in the field of\nsemiconductor-based photocatalysts. Herein, we synthesized g-C3N4@V2C MXene\nphotocatalyst by modifying g-C3N4 using V2C MXene. The prepared photocatalyst\nexhibited outstanding photocatalytic performance under visible light. The\ndegradation efficiency of methyl orange by g-C3N4@V2C MXene photocatalyst was\nas high as 94.5%, which is 1.56 times higher than that by g-C3N4. This was\nattributed to the V2C MXene inhibiting the rapid recombination of\nphotogenerated carriers and facilitating rapid transfer of photogenerated\nelectrons (e) from g-C3N4 to MXene. Moreover, g-C3N4@V2C MXene photocatalyst\nshowed good cycling stability. The photocatalytic performance was higher than\n85% after three cycles. Experiments to capture free radicals revealed that\nsuperoxide radicals (02) are the main contributors to the photocatalytic\nactivity. Thus, the proposed g-C3N4@V2C MXene photocatalyst is a promising\nvisible-light catalyst.",
+            "url": "http://arxiv.org/abs/2310.16414v1"
+          },
+          {
+            "title": "Control of spintronic and electronic properties of bimetallic and vacancy-ordered vanadium carbide MXenes via surface functionalization",
+            "authors": [
+              "Shuo Li",
+              "Junjie He",
+              "Petr Nachtigall",
+              "Luk\u00e1\u0161 Grajciar",
+              "Federico Brivio"
+            ],
+            "year": 2019,
+            "summary": "MXenes are 2D transition metal carbides with high potential for overcoming\nlimitations of conventional two-dimensional electronics. In this context,\nvarious MXenes have shown magnetic properties suitable for applications in\nspintronics, yet the number of MXenes reported so far is far smaller than their\nparental MAX phases. Therefore, we have studied the structural, electronic and\nmagnetic properties of bimetallic and vacancy-ordered MXenes derived from a new\n$(V_{2/3}Zr_{1/3})_2AlC $ MAX phase to assess whether MXene exfoliation would\nreturn stable magnetic materials. In particular, we have investigated the\nproperties of pristine and surface-functionalized $(V_{2/3}Zr_{1/3})_2CX_2$\nbimetallic and $(V_{2/3} \\square_{1/3})_2CX2$ vacancy-ordered MXenes with X =\nO, F and OH. Our density functional theory (DFT) calculations showed that\nmodifying the MXene stoichiometry and/or MXene surface functionalization\nchanges MXene properties. After testing all possible combinations of metallic\nmotifs and functionalization, we identified $V_{2/3}Zr_{1/3})_2CX_2$,\n$(V_{2/3}\\square_{1/3})_2CF_2$ and $(V_{2/3}\\square_{1/3})_2C(OH)_2$ as stable\nstructures. Among them, $(V_{2/3}Zr_{1/3})_2CO_2$ MXene is predicted to be an\nFM intrinsic half-semiconductor with a remarkably high Curie temperature\n($T_C$)) of 270 K. The $(V_{2/3}Zr_{1/3})_2C(OH)_2$ MXene exhibits a rather low\nwork function (WF) (1.37 eV) and is thus a promising candidate for ultra-low\nwork function electron emitters. Conversely, the $(V_{2/3}\\square_{1/3})_2CF_2$\nMXene has a rather high WF and hence can be used as a hole injector for\nSchottky-barrier-free contact applications. Overall, our proof-of-concept study\nshows that theoretical predictions of MXene exfoliation and properties support\nfurther experimental research towards developing spintronics devices.",
+            "url": "http://arxiv.org/abs/1910.01509v1"
+          }
+        ],
+        "total_papers": 5,
+        "total_citations": 0,
+        "novelty_score": 0.16666666666666666
+      }
+    },
+    {
+      "design_number": 8,
+      "formula": "Mn\u2082CT\u2093",
+      "composition": {
+        "metal": "Mn",
+        "x_element": "C",
+        "ratio": "2:1"
+      },
+      "properties": {
+        "E_coh": -391.3856201171875,
+        "WF": 5.049369812011719,
+        "W_sur": 250.86422729492188,
+        "E_coh_norm": -107.56920623779297,
+        "density_sur": 2.172766923904419,
+        "l_M-X": 1.6776849031448364,
+        "l_M2-X": 1.868828296661377
+      },
+      "literature_analysis": {
+        "google_scholar": [],
+        "arxiv": [
+          {
+            "title": "A Density Functional Theory Study of Magnetic Transition in MnO2 adsorbed Vanadium Carbide (V$_2$C) MXene",
+            "authors": [
+              "Mahjabeen Fatima",
+              "Saleem Ayaz Khan",
+              "Syed Rizwan"
+            ],
+            "year": 2024,
+            "summary": "The work reports nonmagnetic behavior (0.04 $\\mu$B) in two-dimensional (2D)\nV2C-OF MXene and ferromagnetism in MnO$_2$ adsorbed V2C-OF MXene. The density\nfunctional theory (DFT) calculations were carried out to study the magnetic\nmoments of V$_2$C-OF and MnO$_2$@V$_2$C-OF MXene. The MXene, which is derived\nfrom the exfoliation of its parent V$_2$AlC MAX phase, shows a good potential\nto be a ferromagnetic when MnO$_2$ is adsorbed on it. The V$_2$C MXene and\nMnO$_2$ adsorbed V$_2$C MXene were successfully synthesized, as characterized\nusing X-ray diffraction, showing an increased c-lattice parameter from\n22.6{\\AA} to 27.2{\\AA} after MnO$_2$ adsorption. The DFT study confirmed that\nMnO$_2$ adsorbed V$_2$C MXene changed from nonmagnetic (in V$_2$C MXene) to a\nstrong ferromagnetic with a magnetic moment of 4.48$\\mu$B for Mn adsorbed\nV$_2$C-OF MXene. The current work is a step-forward towards understanding of\nmagnetism in two-dimensional materials for future 2D spintronics.",
+            "url": "http://arxiv.org/abs/2411.09536v1"
+          },
+          {
+            "title": "Superior Structural, Elastic and Electronic Properties of 2D Titanium Nitride MXenes Over Carbide MXenes: A Comprehensive First Principles Study",
+            "authors": [
+              "Ning Zhang",
+              "Yu Hong",
+              "Sanaz Yazdanparast",
+              "Mohsen Asle Zaeem"
+            ],
+            "year": 2018,
+            "summary": "The structural, elastic and electronic properties of two-dimensional (2D)\ntitanium carbide/nitride based pristine (Tin+1Cn/Tin+1Nn) and functionalized\nMXenes (Tin+1CnT2/Tin+1NnT2, T stands for the terminal groups: -F, -O and -OH,\nn = 1, 2, 3) are investigated by density functional theory calculations.\nCarbide-based MXenes possess larger lattice constants and monolayer thicknesses\nthan nitride-based MXenes. The in-plane Young's moduli of Tin+1Nn are larger\nthan those of Tin+1Cn, whereas in both systems they decrease with the increase\nof the monolayer thickness. Cohesive energy calculations indicate that MXenes\nwith a larger monolayer thickness have a better structural stability.\nAdsorption energy calculations imply that Tin+1Nn have stronger preference to\nadhere to the terminal groups, which suggests more active surfaces for\nnitride-based MXenes. More importantly, nearly free electron states are\nobserved to exist outside the surfaces of -OH functionalized carbide/nitride\nbased MXenes, especially in Tin+1Nn(OH)2, which provide almost perfect\ntransmission channels without nuclear scattering for electron transport. The\noverall electrical conductivity of nitride-based MXenes is determined to be\nhigher than that of carbide-based MXenes. The exceptional properties of\ntitanium nitride-based MXenes, including strong surface adsorption, high\nelastic constant and Young's modulus, and good metallic conductivity, make them\npromising materials for catalysis and energy storage applications.",
+            "url": "http://arxiv.org/abs/1802.06648v2"
+          },
+          {
+            "title": "Predicting the pseudocapacitive windows for MXene electrodes with voltage-dependent cluster expansion models",
+            "authors": [
+              "James M. Goff",
+              "Francisco Marques dos Santos Vieira",
+              "Nathan D. Keilbart",
+              "Yasuaki Okada",
+              "Ismaila Dabo"
+            ],
+            "year": 2021,
+            "summary": "MXene transition-metal carbides and nitrides are of growing interest for\nenergy storage applications. These compounds are especially promising for use\nas pseudocapacitive electrodes due to their ability to convert energy\nelectrochemically at fast rates. Using voltage-dependent cluster expansion\nmodels, we predict the charge storage performance of MXene pseudocapacitors for\na range of electrode compositions. $M_3C_2O_2$ electrodes based on group-VI\ntransition metals have up to 80% larger areal energy densities than\nprototypical titanium-based ( e.g. $Ti_3C_2O_2$) MXene electrodes. We attribute\nthis high pseudocapacitance to the Faradaic voltage windows of group-VI MXene\nelectrodes, which are predicted to be 1.2 to 1.8 times larger than those of\ntitanium-based MXenes. The size of the pseudocapacitive voltage window\nincreases with the range of oxidation states that is accessible to the MXene\ntransition metals. By similar mechanisms, the presence of multiple ions in the\nsolvent (Li$^+$ and H$^+$) leads to sharp changes in the transition-metal\noxidation states and can significantly increase the charge capacity of MXene\npseudocapacitors.",
+            "url": "http://arxiv.org/abs/2102.11863v1"
+          },
+          {
+            "title": "V2C MXene-modified g-C3N4 for enhanced visible-light photocatalytic activity",
+            "authors": [
+              "Ruizheng Xu",
+              "Guiyu Wei",
+              "Zhemin Xie",
+              "Sijie Diao",
+              "Jianfeng Wen",
+              "Tao Tang",
+              "Li Jiang",
+              "Ming Li",
+              "Guanghui Hu"
+            ],
+            "year": 2023,
+            "summary": "Increasing the efficiency of charge transfer and separation efficiency of\nphotogenerated carriers are still the main challenges in the field of\nsemiconductor-based photocatalysts. Herein, we synthesized g-C3N4@V2C MXene\nphotocatalyst by modifying g-C3N4 using V2C MXene. The prepared photocatalyst\nexhibited outstanding photocatalytic performance under visible light. The\ndegradation efficiency of methyl orange by g-C3N4@V2C MXene photocatalyst was\nas high as 94.5%, which is 1.56 times higher than that by g-C3N4. This was\nattributed to the V2C MXene inhibiting the rapid recombination of\nphotogenerated carriers and facilitating rapid transfer of photogenerated\nelectrons (e) from g-C3N4 to MXene. Moreover, g-C3N4@V2C MXene photocatalyst\nshowed good cycling stability. The photocatalytic performance was higher than\n85% after three cycles. Experiments to capture free radicals revealed that\nsuperoxide radicals (02) are the main contributors to the photocatalytic\nactivity. Thus, the proposed g-C3N4@V2C MXene photocatalyst is a promising\nvisible-light catalyst.",
+            "url": "http://arxiv.org/abs/2310.16414v1"
+          },
+          {
+            "title": "Control of spintronic and electronic properties of bimetallic and vacancy-ordered vanadium carbide MXenes via surface functionalization",
+            "authors": [
+              "Shuo Li",
+              "Junjie He",
+              "Petr Nachtigall",
+              "Luk\u00e1\u0161 Grajciar",
+              "Federico Brivio"
+            ],
+            "year": 2019,
+            "summary": "MXenes are 2D transition metal carbides with high potential for overcoming\nlimitations of conventional two-dimensional electronics. In this context,\nvarious MXenes have shown magnetic properties suitable for applications in\nspintronics, yet the number of MXenes reported so far is far smaller than their\nparental MAX phases. Therefore, we have studied the structural, electronic and\nmagnetic properties of bimetallic and vacancy-ordered MXenes derived from a new\n$(V_{2/3}Zr_{1/3})_2AlC $ MAX phase to assess whether MXene exfoliation would\nreturn stable magnetic materials. In particular, we have investigated the\nproperties of pristine and surface-functionalized $(V_{2/3}Zr_{1/3})_2CX_2$\nbimetallic and $(V_{2/3} \\square_{1/3})_2CX2$ vacancy-ordered MXenes with X =\nO, F and OH. Our density functional theory (DFT) calculations showed that\nmodifying the MXene stoichiometry and/or MXene surface functionalization\nchanges MXene properties. After testing all possible combinations of metallic\nmotifs and functionalization, we identified $V_{2/3}Zr_{1/3})_2CX_2$,\n$(V_{2/3}\\square_{1/3})_2CF_2$ and $(V_{2/3}\\square_{1/3})_2C(OH)_2$ as stable\nstructures. Among them, $(V_{2/3}Zr_{1/3})_2CO_2$ MXene is predicted to be an\nFM intrinsic half-semiconductor with a remarkably high Curie temperature\n($T_C$)) of 270 K. The $(V_{2/3}Zr_{1/3})_2C(OH)_2$ MXene exhibits a rather low\nwork function (WF) (1.37 eV) and is thus a promising candidate for ultra-low\nwork function electron emitters. Conversely, the $(V_{2/3}\\square_{1/3})_2CF_2$\nMXene has a rather high WF and hence can be used as a hole injector for\nSchottky-barrier-free contact applications. Overall, our proof-of-concept study\nshows that theoretical predictions of MXene exfoliation and properties support\nfurther experimental research towards developing spintronics devices.",
+            "url": "http://arxiv.org/abs/1910.01509v1"
+          }
+        ],
+        "total_papers": 5,
+        "total_citations": 0,
+        "novelty_score": 0.16666666666666666
+      }
+    },
+    {
+      "design_number": 9,
+      "formula": "Mn\u2082CT\u2093",
+      "composition": {
+        "metal": "Mn",
+        "x_element": "C",
+        "ratio": "2:1"
+      },
+      "properties": {
+        "E_coh": -417.73419189453125,
+        "WF": 5.048187732696533,
+        "W_sur": 249.52003479003906,
+        "E_coh_norm": -113.7673110961914,
+        "density_sur": 2.1181981563568115,
+        "l_M-X": 1.6191229820251465,
+        "l_M2-X": 1.81826913356781
+      },
+      "literature_analysis": {
+        "google_scholar": [],
+        "arxiv": [
+          {
+            "title": "A Density Functional Theory Study of Magnetic Transition in MnO2 adsorbed Vanadium Carbide (V$_2$C) MXene",
+            "authors": [
+              "Mahjabeen Fatima",
+              "Saleem Ayaz Khan",
+              "Syed Rizwan"
+            ],
+            "year": 2024,
+            "summary": "The work reports nonmagnetic behavior (0.04 $\\mu$B) in two-dimensional (2D)\nV2C-OF MXene and ferromagnetism in MnO$_2$ adsorbed V2C-OF MXene. The density\nfunctional theory (DFT) calculations were carried out to study the magnetic\nmoments of V$_2$C-OF and MnO$_2$@V$_2$C-OF MXene. The MXene, which is derived\nfrom the exfoliation of its parent V$_2$AlC MAX phase, shows a good potential\nto be a ferromagnetic when MnO$_2$ is adsorbed on it. The V$_2$C MXene and\nMnO$_2$ adsorbed V$_2$C MXene were successfully synthesized, as characterized\nusing X-ray diffraction, showing an increased c-lattice parameter from\n22.6{\\AA} to 27.2{\\AA} after MnO$_2$ adsorption. The DFT study confirmed that\nMnO$_2$ adsorbed V$_2$C MXene changed from nonmagnetic (in V$_2$C MXene) to a\nstrong ferromagnetic with a magnetic moment of 4.48$\\mu$B for Mn adsorbed\nV$_2$C-OF MXene. The current work is a step-forward towards understanding of\nmagnetism in two-dimensional materials for future 2D spintronics.",
+            "url": "http://arxiv.org/abs/2411.09536v1"
+          },
+          {
+            "title": "Superior Structural, Elastic and Electronic Properties of 2D Titanium Nitride MXenes Over Carbide MXenes: A Comprehensive First Principles Study",
+            "authors": [
+              "Ning Zhang",
+              "Yu Hong",
+              "Sanaz Yazdanparast",
+              "Mohsen Asle Zaeem"
+            ],
+            "year": 2018,
+            "summary": "The structural, elastic and electronic properties of two-dimensional (2D)\ntitanium carbide/nitride based pristine (Tin+1Cn/Tin+1Nn) and functionalized\nMXenes (Tin+1CnT2/Tin+1NnT2, T stands for the terminal groups: -F, -O and -OH,\nn = 1, 2, 3) are investigated by density functional theory calculations.\nCarbide-based MXenes possess larger lattice constants and monolayer thicknesses\nthan nitride-based MXenes. The in-plane Young's moduli of Tin+1Nn are larger\nthan those of Tin+1Cn, whereas in both systems they decrease with the increase\nof the monolayer thickness. Cohesive energy calculations indicate that MXenes\nwith a larger monolayer thickness have a better structural stability.\nAdsorption energy calculations imply that Tin+1Nn have stronger preference to\nadhere to the terminal groups, which suggests more active surfaces for\nnitride-based MXenes. More importantly, nearly free electron states are\nobserved to exist outside the surfaces of -OH functionalized carbide/nitride\nbased MXenes, especially in Tin+1Nn(OH)2, which provide almost perfect\ntransmission channels without nuclear scattering for electron transport. The\noverall electrical conductivity of nitride-based MXenes is determined to be\nhigher than that of carbide-based MXenes. The exceptional properties of\ntitanium nitride-based MXenes, including strong surface adsorption, high\nelastic constant and Young's modulus, and good metallic conductivity, make them\npromising materials for catalysis and energy storage applications.",
+            "url": "http://arxiv.org/abs/1802.06648v2"
+          },
+          {
+            "title": "Predicting the pseudocapacitive windows for MXene electrodes with voltage-dependent cluster expansion models",
+            "authors": [
+              "James M. Goff",
+              "Francisco Marques dos Santos Vieira",
+              "Nathan D. Keilbart",
+              "Yasuaki Okada",
+              "Ismaila Dabo"
+            ],
+            "year": 2021,
+            "summary": "MXene transition-metal carbides and nitrides are of growing interest for\nenergy storage applications. These compounds are especially promising for use\nas pseudocapacitive electrodes due to their ability to convert energy\nelectrochemically at fast rates. Using voltage-dependent cluster expansion\nmodels, we predict the charge storage performance of MXene pseudocapacitors for\na range of electrode compositions. $M_3C_2O_2$ electrodes based on group-VI\ntransition metals have up to 80% larger areal energy densities than\nprototypical titanium-based ( e.g. $Ti_3C_2O_2$) MXene electrodes. We attribute\nthis high pseudocapacitance to the Faradaic voltage windows of group-VI MXene\nelectrodes, which are predicted to be 1.2 to 1.8 times larger than those of\ntitanium-based MXenes. The size of the pseudocapacitive voltage window\nincreases with the range of oxidation states that is accessible to the MXene\ntransition metals. By similar mechanisms, the presence of multiple ions in the\nsolvent (Li$^+$ and H$^+$) leads to sharp changes in the transition-metal\noxidation states and can significantly increase the charge capacity of MXene\npseudocapacitors.",
+            "url": "http://arxiv.org/abs/2102.11863v1"
+          },
+          {
+            "title": "V2C MXene-modified g-C3N4 for enhanced visible-light photocatalytic activity",
+            "authors": [
+              "Ruizheng Xu",
+              "Guiyu Wei",
+              "Zhemin Xie",
+              "Sijie Diao",
+              "Jianfeng Wen",
+              "Tao Tang",
+              "Li Jiang",
+              "Ming Li",
+              "Guanghui Hu"
+            ],
+            "year": 2023,
+            "summary": "Increasing the efficiency of charge transfer and separation efficiency of\nphotogenerated carriers are still the main challenges in the field of\nsemiconductor-based photocatalysts. Herein, we synthesized g-C3N4@V2C MXene\nphotocatalyst by modifying g-C3N4 using V2C MXene. The prepared photocatalyst\nexhibited outstanding photocatalytic performance under visible light. The\ndegradation efficiency of methyl orange by g-C3N4@V2C MXene photocatalyst was\nas high as 94.5%, which is 1.56 times higher than that by g-C3N4. This was\nattributed to the V2C MXene inhibiting the rapid recombination of\nphotogenerated carriers and facilitating rapid transfer of photogenerated\nelectrons (e) from g-C3N4 to MXene. Moreover, g-C3N4@V2C MXene photocatalyst\nshowed good cycling stability. The photocatalytic performance was higher than\n85% after three cycles. Experiments to capture free radicals revealed that\nsuperoxide radicals (02) are the main contributors to the photocatalytic\nactivity. Thus, the proposed g-C3N4@V2C MXene photocatalyst is a promising\nvisible-light catalyst.",
+            "url": "http://arxiv.org/abs/2310.16414v1"
+          },
+          {
+            "title": "Control of spintronic and electronic properties of bimetallic and vacancy-ordered vanadium carbide MXenes via surface functionalization",
+            "authors": [
+              "Shuo Li",
+              "Junjie He",
+              "Petr Nachtigall",
+              "Luk\u00e1\u0161 Grajciar",
+              "Federico Brivio"
+            ],
+            "year": 2019,
+            "summary": "MXenes are 2D transition metal carbides with high potential for overcoming\nlimitations of conventional two-dimensional electronics. In this context,\nvarious MXenes have shown magnetic properties suitable for applications in\nspintronics, yet the number of MXenes reported so far is far smaller than their\nparental MAX phases. Therefore, we have studied the structural, electronic and\nmagnetic properties of bimetallic and vacancy-ordered MXenes derived from a new\n$(V_{2/3}Zr_{1/3})_2AlC $ MAX phase to assess whether MXene exfoliation would\nreturn stable magnetic materials. In particular, we have investigated the\nproperties of pristine and surface-functionalized $(V_{2/3}Zr_{1/3})_2CX_2$\nbimetallic and $(V_{2/3} \\square_{1/3})_2CX2$ vacancy-ordered MXenes with X =\nO, F and OH. Our density functional theory (DFT) calculations showed that\nmodifying the MXene stoichiometry and/or MXene surface functionalization\nchanges MXene properties. After testing all possible combinations of metallic\nmotifs and functionalization, we identified $V_{2/3}Zr_{1/3})_2CX_2$,\n$(V_{2/3}\\square_{1/3})_2CF_2$ and $(V_{2/3}\\square_{1/3})_2C(OH)_2$ as stable\nstructures. Among them, $(V_{2/3}Zr_{1/3})_2CO_2$ MXene is predicted to be an\nFM intrinsic half-semiconductor with a remarkably high Curie temperature\n($T_C$)) of 270 K. The $(V_{2/3}Zr_{1/3})_2C(OH)_2$ MXene exhibits a rather low\nwork function (WF) (1.37 eV) and is thus a promising candidate for ultra-low\nwork function electron emitters. Conversely, the $(V_{2/3}\\square_{1/3})_2CF_2$\nMXene has a rather high WF and hence can be used as a hole injector for\nSchottky-barrier-free contact applications. Overall, our proof-of-concept study\nshows that theoretical predictions of MXene exfoliation and properties support\nfurther experimental research towards developing spintronics devices.",
+            "url": "http://arxiv.org/abs/1910.01509v1"
+          }
+        ],
+        "total_papers": 5,
+        "total_citations": 0,
+        "novelty_score": 0.16666666666666666
+      }
+    },
+    {
+      "design_number": 10,
+      "formula": "Mn\u2082CT\u2093",
+      "composition": {
+        "metal": "Mn",
+        "x_element": "C",
+        "ratio": "2:1"
+      },
+      "properties": {
+        "E_coh": -397.89288330078125,
+        "WF": 4.666040420532227,
+        "W_sur": 252.92599487304688,
+        "E_coh_norm": -104.91230773925781,
+        "density_sur": 2.3146939277648926,
+        "l_M-X": 1.653017520904541,
+        "l_M2-X": 1.854372262954712
+      },
+      "literature_analysis": {
+        "google_scholar": [],
+        "arxiv": [
+          {
+            "title": "A Density Functional Theory Study of Magnetic Transition in MnO2 adsorbed Vanadium Carbide (V$_2$C) MXene",
+            "authors": [
+              "Mahjabeen Fatima",
+              "Saleem Ayaz Khan",
+              "Syed Rizwan"
+            ],
+            "year": 2024,
+            "summary": "The work reports nonmagnetic behavior (0.04 $\\mu$B) in two-dimensional (2D)\nV2C-OF MXene and ferromagnetism in MnO$_2$ adsorbed V2C-OF MXene. The density\nfunctional theory (DFT) calculations were carried out to study the magnetic\nmoments of V$_2$C-OF and MnO$_2$@V$_2$C-OF MXene. The MXene, which is derived\nfrom the exfoliation of its parent V$_2$AlC MAX phase, shows a good potential\nto be a ferromagnetic when MnO$_2$ is adsorbed on it. The V$_2$C MXene and\nMnO$_2$ adsorbed V$_2$C MXene were successfully synthesized, as characterized\nusing X-ray diffraction, showing an increased c-lattice parameter from\n22.6{\\AA} to 27.2{\\AA} after MnO$_2$ adsorption. The DFT study confirmed that\nMnO$_2$ adsorbed V$_2$C MXene changed from nonmagnetic (in V$_2$C MXene) to a\nstrong ferromagnetic with a magnetic moment of 4.48$\\mu$B for Mn adsorbed\nV$_2$C-OF MXene. The current work is a step-forward towards understanding of\nmagnetism in two-dimensional materials for future 2D spintronics.",
+            "url": "http://arxiv.org/abs/2411.09536v1"
+          },
+          {
+            "title": "Superior Structural, Elastic and Electronic Properties of 2D Titanium Nitride MXenes Over Carbide MXenes: A Comprehensive First Principles Study",
+            "authors": [
+              "Ning Zhang",
+              "Yu Hong",
+              "Sanaz Yazdanparast",
+              "Mohsen Asle Zaeem"
+            ],
+            "year": 2018,
+            "summary": "The structural, elastic and electronic properties of two-dimensional (2D)\ntitanium carbide/nitride based pristine (Tin+1Cn/Tin+1Nn) and functionalized\nMXenes (Tin+1CnT2/Tin+1NnT2, T stands for the terminal groups: -F, -O and -OH,\nn = 1, 2, 3) are investigated by density functional theory calculations.\nCarbide-based MXenes possess larger lattice constants and monolayer thicknesses\nthan nitride-based MXenes. The in-plane Young's moduli of Tin+1Nn are larger\nthan those of Tin+1Cn, whereas in both systems they decrease with the increase\nof the monolayer thickness. Cohesive energy calculations indicate that MXenes\nwith a larger monolayer thickness have a better structural stability.\nAdsorption energy calculations imply that Tin+1Nn have stronger preference to\nadhere to the terminal groups, which suggests more active surfaces for\nnitride-based MXenes. More importantly, nearly free electron states are\nobserved to exist outside the surfaces of -OH functionalized carbide/nitride\nbased MXenes, especially in Tin+1Nn(OH)2, which provide almost perfect\ntransmission channels without nuclear scattering for electron transport. The\noverall electrical conductivity of nitride-based MXenes is determined to be\nhigher than that of carbide-based MXenes. The exceptional properties of\ntitanium nitride-based MXenes, including strong surface adsorption, high\nelastic constant and Young's modulus, and good metallic conductivity, make them\npromising materials for catalysis and energy storage applications.",
+            "url": "http://arxiv.org/abs/1802.06648v2"
+          },
+          {
+            "title": "Predicting the pseudocapacitive windows for MXene electrodes with voltage-dependent cluster expansion models",
+            "authors": [
+              "James M. Goff",
+              "Francisco Marques dos Santos Vieira",
+              "Nathan D. Keilbart",
+              "Yasuaki Okada",
+              "Ismaila Dabo"
+            ],
+            "year": 2021,
+            "summary": "MXene transition-metal carbides and nitrides are of growing interest for\nenergy storage applications. These compounds are especially promising for use\nas pseudocapacitive electrodes due to their ability to convert energy\nelectrochemically at fast rates. Using voltage-dependent cluster expansion\nmodels, we predict the charge storage performance of MXene pseudocapacitors for\na range of electrode compositions. $M_3C_2O_2$ electrodes based on group-VI\ntransition metals have up to 80% larger areal energy densities than\nprototypical titanium-based ( e.g. $Ti_3C_2O_2$) MXene electrodes. We attribute\nthis high pseudocapacitance to the Faradaic voltage windows of group-VI MXene\nelectrodes, which are predicted to be 1.2 to 1.8 times larger than those of\ntitanium-based MXenes. The size of the pseudocapacitive voltage window\nincreases with the range of oxidation states that is accessible to the MXene\ntransition metals. By similar mechanisms, the presence of multiple ions in the\nsolvent (Li$^+$ and H$^+$) leads to sharp changes in the transition-metal\noxidation states and can significantly increase the charge capacity of MXene\npseudocapacitors.",
+            "url": "http://arxiv.org/abs/2102.11863v1"
+          },
+          {
+            "title": "V2C MXene-modified g-C3N4 for enhanced visible-light photocatalytic activity",
+            "authors": [
+              "Ruizheng Xu",
+              "Guiyu Wei",
+              "Zhemin Xie",
+              "Sijie Diao",
+              "Jianfeng Wen",
+              "Tao Tang",
+              "Li Jiang",
+              "Ming Li",
+              "Guanghui Hu"
+            ],
+            "year": 2023,
+            "summary": "Increasing the efficiency of charge transfer and separation efficiency of\nphotogenerated carriers are still the main challenges in the field of\nsemiconductor-based photocatalysts. Herein, we synthesized g-C3N4@V2C MXene\nphotocatalyst by modifying g-C3N4 using V2C MXene. The prepared photocatalyst\nexhibited outstanding photocatalytic performance under visible light. The\ndegradation efficiency of methyl orange by g-C3N4@V2C MXene photocatalyst was\nas high as 94.5%, which is 1.56 times higher than that by g-C3N4. This was\nattributed to the V2C MXene inhibiting the rapid recombination of\nphotogenerated carriers and facilitating rapid transfer of photogenerated\nelectrons (e) from g-C3N4 to MXene. Moreover, g-C3N4@V2C MXene photocatalyst\nshowed good cycling stability. The photocatalytic performance was higher than\n85% after three cycles. Experiments to capture free radicals revealed that\nsuperoxide radicals (02) are the main contributors to the photocatalytic\nactivity. Thus, the proposed g-C3N4@V2C MXene photocatalyst is a promising\nvisible-light catalyst.",
+            "url": "http://arxiv.org/abs/2310.16414v1"
+          },
+          {
+            "title": "Control of spintronic and electronic properties of bimetallic and vacancy-ordered vanadium carbide MXenes via surface functionalization",
+            "authors": [
+              "Shuo Li",
+              "Junjie He",
+              "Petr Nachtigall",
+              "Luk\u00e1\u0161 Grajciar",
+              "Federico Brivio"
+            ],
+            "year": 2019,
+            "summary": "MXenes are 2D transition metal carbides with high potential for overcoming\nlimitations of conventional two-dimensional electronics. In this context,\nvarious MXenes have shown magnetic properties suitable for applications in\nspintronics, yet the number of MXenes reported so far is far smaller than their\nparental MAX phases. Therefore, we have studied the structural, electronic and\nmagnetic properties of bimetallic and vacancy-ordered MXenes derived from a new\n$(V_{2/3}Zr_{1/3})_2AlC $ MAX phase to assess whether MXene exfoliation would\nreturn stable magnetic materials. In particular, we have investigated the\nproperties of pristine and surface-functionalized $(V_{2/3}Zr_{1/3})_2CX_2$\nbimetallic and $(V_{2/3} \\square_{1/3})_2CX2$ vacancy-ordered MXenes with X =\nO, F and OH. Our density functional theory (DFT) calculations showed that\nmodifying the MXene stoichiometry and/or MXene surface functionalization\nchanges MXene properties. After testing all possible combinations of metallic\nmotifs and functionalization, we identified $V_{2/3}Zr_{1/3})_2CX_2$,\n$(V_{2/3}\\square_{1/3})_2CF_2$ and $(V_{2/3}\\square_{1/3})_2C(OH)_2$ as stable\nstructures. Among them, $(V_{2/3}Zr_{1/3})_2CO_2$ MXene is predicted to be an\nFM intrinsic half-semiconductor with a remarkably high Curie temperature\n($T_C$)) of 270 K. The $(V_{2/3}Zr_{1/3})_2C(OH)_2$ MXene exhibits a rather low\nwork function (WF) (1.37 eV) and is thus a promising candidate for ultra-low\nwork function electron emitters. Conversely, the $(V_{2/3}\\square_{1/3})_2CF_2$\nMXene has a rather high WF and hence can be used as a hole injector for\nSchottky-barrier-free contact applications. Overall, our proof-of-concept study\nshows that theoretical predictions of MXene exfoliation and properties support\nfurther experimental research towards developing spintronics devices.",
+            "url": "http://arxiv.org/abs/1910.01509v1"
+          }
+        ],
+        "total_papers": 5,
+        "total_citations": 0,
+        "novelty_score": 0.16666666666666666
+      }
+    }
+  ]
+}
