@@ -105,6 +105,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - your.email@example.com
+Your Name - hakanbal@gtu.edu.tr
 
-Project Link: https://github.com/yourusername/mxene-project
+Project Link: https://github.com/Hakan-Bal/mxene-project
